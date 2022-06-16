@@ -1,6 +1,6 @@
 # People search next
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/people\_search\_next/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/people\_search\_next/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/people\_search\_next/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/people\_search\_next/sample.json)
 
 ![](https://lh4.googleusercontent.com/0J2QLQKuJ6\_g4xM87XmuGizkUsRloezHKMBPsn4zuYIclVNeBR1UeSgmQlPm9M8qjHdnsrBj-9seemH8wSXu6oYDI4Qmx8CYB\_deh8JlFeQSd5zKhU2hrkWPoWEBLVe5C2Sk96o)
 

@@ -1,6 +1,6 @@
 # Scholar
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/scholar/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/scholar/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/scholar/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/scholar/sample.json)
 
 ![](https://lh6.googleusercontent.com/eWeUPUx6o1A6a4InQgRSv9p2Co1gcQ9QuN6c7gRTg7f9B0hjHqzRjxmcmGkWmJy7HbK3qkn6tsOUGgKe3HysoJfQ3M6G2mE4Tk9ltOCPOqyHOkSApL10AR8dKdKhPUSpCEBaZ\_8)
 

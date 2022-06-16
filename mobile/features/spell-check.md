@@ -2,7 +2,7 @@
 
 ## **Show origin query**
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/spell\_check/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/spell\_check/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample.json)
 
 ![](https://lh6.googleusercontent.com/AGo18MdCYrmTuzy\_wLhAD2\_Pxkn2y6u\_CQMk1AHJEAcQedsK-yKDZXAndDHhMdvhIoH7Go1Yrt5RjgxMmFeE3cXJgLdkjlFy3CL7w5pUC\_dwNVjZXtvBEchBEryuzWez7iMAl\_w)
 
@@ -18,7 +18,7 @@
 
 ## **Show only fixed query**
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/spell\_check/sample2.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/spell\_check/sample2.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample2.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample2.json)
 
 ![](https://lh6.googleusercontent.com/pSKnWIolg5NvOqoSEELImRHn3jl-SSjQmpPG1vccVl287atFld\_vJwhQS9do8djk7mTcWugAwCOoqeSNjd63QP7B\_o8SQWBsNe74pVA5CxDp0vOcqmfDnQIM0UkFqvxoE-dE1M0)
 

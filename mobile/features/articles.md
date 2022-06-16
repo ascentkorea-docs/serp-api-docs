@@ -2,7 +2,7 @@
 
 ## Cards
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/articles/sample1.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/articles/sample1.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/articles/sample1.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/articles/sample1.json)
 
 ![](https://lh3.googleusercontent.com/j4nI8WKLTdDg\_TJXKfyi8B3lvW3O8FIl-K6afTUFQid0hm5Hwm06MYj6P6EulJwD3inPvwFjXZgaXuL81ldcA\_UzQkSu6GxH9USJDjtLDkAMHz8r7YI\_uT2FHVTRRrvEJ84jc\_A)
 
@@ -33,7 +33,7 @@
 
 ## Carousels
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/articles/sample2.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/articles/sample2.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/articles/sample2.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/articles/sample2.json)
 
 v
 

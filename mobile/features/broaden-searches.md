@@ -1,6 +1,6 @@
 # Broaden searches
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/broaden\_searches/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/broaden\_searches/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/broaden\_searches/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/broaden\_searches/sample.json)
 
 ![](https://lh6.googleusercontent.com/iqShievlI3lMQY3J-fXl8sQFEXZZnWpKyf4XHsl1nRc9yFocsqe-JKJlksA9PGBYFXuJlJkQRdyR3KLzDnzzvnc7uBpnewIx9V-NvEtk6p-LawO8tWU0HstiSjMJCUxUNiAG6xY)
 

@@ -2,7 +2,7 @@
 
 ## Common
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/refined\_searches/sample1.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/refined\_searches/sample1.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/refined\_searches/sample1.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/refined\_searches/sample1.json)
 
 ![](https://lh4.googleusercontent.com/Aty9nd284q\_rYLqBedr\_wp2pkUgHloIGVZEVs3vY1HlWR3xZu1JqIs5n7ro6\_kz9\_vbgXv-ESJIUAXYDL1uqnqMUAj9PeJ\_EsbqgnepvbXNNQYjIYcbJyODbKBR3n8tgDMY21Dw)
 
@@ -55,7 +55,7 @@
 
 ## Advanced
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/refined\_searches/sample2.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/refined\_searches/sample2.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/refined\_searches/sample2.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/refined\_searches/sample2.json)
 
 ![](https://lh5.googleusercontent.com/zomcHPvQkIpotL6kWf7VzHvNNA2T2iSOUXrwVAq9g4QtPuqKtQJWKkk\_IFhZm7AHY-TTBaf5O0B\_rQ3pYX9xL1YFyHJCSZqz-41DChe8q2mddbtIWR\_3UTXp-GHg8GF37OVu6pI)
 

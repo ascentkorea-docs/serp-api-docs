@@ -2,7 +2,7 @@
 
 ## Common
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ad/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ad/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/ad/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/ad/sample.json)
 
 ![](../../../.gitbook/assets/ad\_common.png)
 
@@ -21,7 +21,7 @@
 
 ## Carousels
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ad/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ad/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/ad/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/ad/sample.json)
 
 ![](https://lh5.googleusercontent.com/etWoDuGP1JQ15ocrS4z29KJ1AH7bdWUM03Ig1LpZULKLSUdXS-EOUGASsO9ppEZ6mAQQ2GGH4y5lCku447J\_M88IGd7hCZBDj6a8hqcNupy44f7LNckZb7TmSYrKs4yKV0io500)
 
@@ -54,7 +54,7 @@
 
 ## Site links
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ad/sample2.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ad/sample2.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/ad/sample2.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/ad/sample2.json)
 
 ![](https://lh4.googleusercontent.com/t41cvC2O96de0hZAR20\_Sbpxm0OsbN6WBzi1eYv8pkkjTZa7oyCt807biLPGXBkg5Ov6UW\_Wc8LoakRf9IPVAhX7NNOVWxUM-xr\_m9qXxT-lTO8hClDNVDlvzIZsYBhpf6lDUjU)
 
@@ -87,7 +87,7 @@
 
 ## **Rating**
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ad/sample3.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ad/sample3.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/ad/sample3.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/ad/sample3.json)
 
 ![](https://lh3.googleusercontent.com/2DcTvUC4Smm8BZNIugt23DXBdw5uSLeDqFAxP4r9CRBaEiNRIH509GnZK59OqVA1hJhl8g2wtO\_6OmmmsXfmKpFrYf6ttKhfwdGVVSSY5V-lhbS5ocKOf66LbR5FI8namMOCJ0Q)
 

@@ -1,6 +1,6 @@
 # Discover more places (new)
 
-[HTML](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/mongttang/google/serpapi/any/220608/2206080958/183110235213-ACC6F1EC71C14AA5AB1FC2EC5E6844FA-00.html) [JSON](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/mongttang/google/serpapi/any/220608/2206080958/183110235213-ACC6F1EC71C14AA5AB1FC2EC5E6844FA-00.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/discover\_more\_places/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/discover\_more\_places/sample.json)
 
 ![](../../.gitbook/assets/image.png)
 

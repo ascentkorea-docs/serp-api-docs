@@ -1,6 +1,6 @@
 # Local results
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/local\_results/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/local\_results/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/local\_results/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/local\_results/sample.json)
 
 ![](https://lh5.googleusercontent.com/DrLsHK-5U-792n9b22NdsAPWFc3SI7n4a0GPess4AsnT6femDMcycrDFTJqHstFhtm772jIYTPw6-GC0yJdRBTQVtIqPzgqLq8FGUSLXl7f01Ldam2zREv8auiwZY\_A71B2-ImE)
 

@@ -1,6 +1,6 @@
 # Adult certification
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/adult\_certification/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/adult\_certification/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/adult\_certification/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/adult\_certification/sample.json)
 
 ![](https://lh6.googleusercontent.com/3BSB549pPCoSMiR3Xy\_BDJMRngbw7f2w2wgh3bD7ofw-WQtvmgxkVFLLNqgD7itTVkpA4\_E9Hrxw0o9PUBqGfDMtfCOn\_fj1FHuT3mE7H5mSu7BsuP656PAp7tIN3XanRTMd5jo)
 

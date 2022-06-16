@@ -1,6 +1,6 @@
 # Shops
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/shops/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/shops/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/shops/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/shops/sample.json)
 
 ![](https://lh4.googleusercontent.com/WqKZc3wldZvAkE3UEdQVrENwzVcm2TGFlXPmTuhzTbQcBQ20jtnNgpM0W9xuIo0MoyrN5DKZrbclzgfc6Nh8qyVsowt99xNQCfm50TEo5eTP-nsJnmIEi8XNkRS34u4CKENRBBs)
 

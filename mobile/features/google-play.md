@@ -1,6 +1,6 @@
 # Google play
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/google\_play/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/google\_play/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/google\_play/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/google\_play/sample.json)
 
 ![](https://lh5.googleusercontent.com/HgfqaoGnKvU9dhRNKD2tm\_tEY4Yc4vrOq1i5JoPEyC3iPiPDzD8L7BZOJrtGIWNFFCI2Qwl6Yt6C\_7xYEdm\_HkcW5yexF2uzexQC3NYZ7O3fgGn6w3GRvbBhpxCq9Vmzm39R0L4)
 

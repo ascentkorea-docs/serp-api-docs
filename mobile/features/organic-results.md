@@ -4,7 +4,7 @@
 
 #### Image
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample.json)
 
 ![](https://lh3.googleusercontent.com/1ToAcpLuqZcdezDnjytsLRtTpUV8hR9x5TZjcpmoD04lOMEWjLT79t-r3vRGWaZy5jZzzyELG-uogunyFJk-ZHYWIiHyL26C-xwfXNkVlapd-jgOBaumR93niwZF7Y1v8-VFPLc)
 
@@ -30,7 +30,7 @@
 
 #### Video
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample1.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample1.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample1.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample1.json)
 
 ![](../../../.gitbook/assets/organic\_thumbnail\_video.png)
 
@@ -54,7 +54,7 @@
 
 #### Direct video
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample2.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample2.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample2.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample2.json)
 
 ![](../../../.gitbook/assets/organic\_thumbnail\_direct\_videopng.png)
 
@@ -76,7 +76,7 @@
 
 ## Carousels
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/carousels/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/carousels/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/organic\_results/carousels/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/organic\_results/carousels/sample.json)
 
 ![](../../../.gitbook/assets/organic\_carousels.png)
 
@@ -141,7 +141,7 @@
 
 ## Rating
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/rating/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/rating/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/organic\_results/rating/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/organic\_results/rating/sample.json)
 
 ![](../../../.gitbook/assets/organic\_rating.png)
 
@@ -169,7 +169,7 @@
 
 ## Rich snippet
 
-[HTML](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/rich\_snippet/sample.html) [JSON](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/rich\_snippet/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/rich\_snippet/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/rich\_snippet/sample.json)
 
 ![](../../../.gitbook/assets/organic\_rich\_snippet.png)
 

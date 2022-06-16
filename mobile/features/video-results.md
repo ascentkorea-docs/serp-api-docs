@@ -1,6 +1,6 @@
 # Video results
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/video\_results/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/video\_results/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/video\_results/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/video\_results/sample.json)
 
 ![](https://lh3.googleusercontent.com/VWSvxMaz4RZlCm2EIfUdfk3Di-9eEv9iYUiiDqAnc5EixvjqpnquHCLuvG-7gDMeQe9XCoSOWkcli4rHm6wV1lD9yxc7eqoL3gpNl1WIAhp3Xc4-UDIJlfCMveIrQFq-ptPUXdk)
 

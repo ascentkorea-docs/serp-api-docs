@@ -1,6 +1,6 @@
 # More likes
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/desktop/appbar/more\_likes/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/desktop/appbar/more\_likes/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/desktop/appbar/more\_likes/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/desktop/appbar/more\_likes/sample.json)
 
 ![](https://lh5.googleusercontent.com/VOycxxms9R4yYDpoGW5Ko8\_gyN0jhP90G0SwFrwX1iSbrZXgLHsVxq4RGUeaG1hr0A1leWQy9yX1QHL0sLLf49DmEsRJ2NR-X\_ukHI8JI4K6SLUDevMYQa2ozd3eCcQYN4d1sS4)
 

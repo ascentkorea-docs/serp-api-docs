@@ -1,6 +1,6 @@
 # People also search for
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/people\_also\_search\_for/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/people\_also\_search\_for/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/people\_also\_search\_for/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/people\_also\_search\_for/sample.json)
 
 ![](https://lh4.googleusercontent.com/nfGu55IbWt6TtBFnyhXZId\_Oicl\_lWXHVfX44uNP1v-5t4\_bIOYjJDMVjnsaU-ZM-jR8XIoC0FityNkVAoirB9COyUv1VeMe9mUHK4\_eEM\_R6pO4CsivW8dMFjujR\_7z91\_Ckl8)
 

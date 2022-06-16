@@ -1,6 +1,6 @@
 # Interesting finds
 
-[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/interesting\_finds/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/interesting\_finds/sample.json)
+[**HTML**](https://ascentkorea-docs.github.io/mobile/features/interesting\_finds/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/interesting\_finds/sample.json)
 
 ![](https://lh3.googleusercontent.com/qJZu7Ji-41d9U6HOyYx5fE8gNur-pM06ehFgkzoXrX8rSMBkXnK91qV0QLSOi3ZesCxi9QRgQ6jSuj\_bc5AmNczmg-hSfiOBurkGWA\_JxzRpy1tZYPLkcQkoVgPGPAQzWsWKXIo)
 
