@@ -51,6 +51,3 @@
 * [Appbar](desktop/appbar/README.md)
   * [More likes](desktop/appbar/more-likes.md)
 
-## History
-
-* [History](history/history.md)
