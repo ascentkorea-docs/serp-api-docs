@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Google SERP api docs](README.md)
+* [SERP api docs](README.md)
 
 ## Mobile
 
