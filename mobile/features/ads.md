@@ -1,6 +1,6 @@
 # Ads
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/ads/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/ads/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/ads/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/ads/sample.json)
 
 ![](../../../.gitbook/assets/ads.png)
 

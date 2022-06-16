@@ -1,6 +1,6 @@
 # Twitter
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/twitter/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/twitter/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/twitter/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/twitter/sample.json)
 
 ![](https://lh6.googleusercontent.com/IAjFX5GEEjwGzuOT5scntOLeOXcSdyTpQL7EZofsd2cXGu4fZVbbeQ1WA1jqoPyrfICcQLB5UkYyBIFyYqL4FyApQl9V\_eIkQnfLT4KXtaNGd6mHWuO88L1Arnuru4HW4G7TKIo)
 

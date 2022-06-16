@@ -1,6 +1,6 @@
 # Sticky header tabs
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/sticky\_header\_tabs/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/sticky\_header\_tabs/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/sticky\_header\_tabs/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/sticky\_header\_tabs/sample.json)
 
 ![](https://lh5.googleusercontent.com/R54vsDBkGSUGVVkHscuftiVGyjitinDNO00Iq\_lM0-0ZYkFzkai6ZeSeZH9L-C0FLvJf1A2C9oeF5X0p4IOvPG9pO8JLXzRbtzI1NtzHdJf3n2d4dUwAFiY1VVx\_GMSbjvkXDbE)
 

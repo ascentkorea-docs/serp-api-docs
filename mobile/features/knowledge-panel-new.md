@@ -2,7 +2,7 @@
 
 ## **Rich snippet**
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample1.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample1.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample1.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample1.json)
 
 ![](https://lh5.googleusercontent.com/St3Ds0iFRZKgUJquTiKSnA-sq46pyoyjIeo9wa0hoOAnG-y0vsCkqq1fWVKpT2GRlZw9q5nKbEN1T0XjWQO1--hILMjKbeP7Eatb6yZmUfgwc0zt\_3wk9YhRzOtH6COr7-1NBEw)
 
@@ -264,7 +264,7 @@
 
 ## **Images**
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample2.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample2.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample2.json)
 
 ![](https://lh3.googleusercontent.com/n9JJHXk7gZpsrAkw\_tntKfg2qBKACjxtkP1ex59KgrmkyJReArP\_Qz7FDvDYPspm6BqEF2XWzIG29r66Izpa5\_P3Sn5AQe3KoQlhlEdLRRo-l5NIFkF370eXAjoCP9qFqY-8hK8)
 
@@ -378,7 +378,7 @@
 
 ## **Ratings**
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample3.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample3.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample3.json)
 
 ![](https://lh6.googleusercontent.com/ezF6rq3MrQmuWTzUmtN336StFaXd-LJDZOCvr1v5sNP6xot3fU37I7RczrpxRS7-gLaOZ0urVbe74DkAQM5QGTuRDj5JQ0scdTmUnLYPaoGLrkGS2DKeGvieefj-\_Gsr9gvng1A)
 
@@ -530,7 +530,7 @@
 
 ## **More likes**
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample4.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample4.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample4.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample4.json)
 
 ![](https://lh3.googleusercontent.com/WP0n6bIgdybe4FuSqdkJfp8kNkaTOFbno4gfFpYUHoUuxDvq-qtSn3N0qDrE3PINHJY32M4k2qmUyfQLAe2xlezGNO9m9TgDt9cq3L-7PEbN5bjebYEO-EKGEHgsGffV852rVUU)
 

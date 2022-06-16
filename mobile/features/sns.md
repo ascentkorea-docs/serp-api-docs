@@ -1,6 +1,6 @@
 # Sns
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/sns/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/sns/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/sns/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/sns/sample.json)
 
 ![](https://lh3.googleusercontent.com/sis-FL601SKikJCqbD\_nxe8jniG\_dheaTjH8DVJhEM2rjS6amtCCjemXUaUKE\_86Kftak3BsggLQLWgzaWL8JcqP9K9eeLTC2CFi32LdzSlg-Os\_9XovH89XiqZUX1\_gwFZl\_xY)
 

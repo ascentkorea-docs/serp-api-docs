@@ -1,6 +1,6 @@
 # App results
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/app\_results/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/app\_results/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/app\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/app\_results/sample.json)
 
 ![](https://lh6.googleusercontent.com/Jx3otfeYd8SEnL2kxPgflpumy-ssAP6fZWDFRvkM\_UTphZnyC30ChUye82n9aASkkN9OOjUaBEaPBFbwygjsfgxPEpEgB\_8t5X16aEPza2Wj1moyDzH9jRdM0QNNTCQI6o9o1d8)
 

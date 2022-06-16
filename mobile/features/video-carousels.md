@@ -1,6 +1,6 @@
 # Video carousels
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/video\_carousels/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/video\_carousels/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/video\_carousels/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/video\_carousels/sample.json)
 
 ![](https://lh6.googleusercontent.com/NFvcQzka9gpGW34uR2BTxsQ5te8k8vvaB4lkz6-1IUm9Q-3MgsRXLwlIf3BuIae3rqe\_YiqCUBPCsLtX-ZthjrxMDYO-Ee8p1MYRl2pw2wnFX26MDtJHrXskGfBvcv62HZF3dCI)
 

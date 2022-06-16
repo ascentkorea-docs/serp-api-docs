@@ -1,6 +1,6 @@
 # Images
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/images/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/images/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/images/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/images/sample.json)
 
 ![](https://lh3.googleusercontent.com/x65s8Cq6m37ErY1yrvXg\_PXPjqiwOR2qSALWb5bAgj1hjyUFMTkkBl2wwAlxU8M00SSpIRoSar2wx-0cCeY3vKIyspdZYKZDYSFKZeLBil-pzNC-Sg1UjL11sVEXhRwrw920160)
 

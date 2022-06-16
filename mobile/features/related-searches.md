@@ -1,6 +1,6 @@
 # Related searches
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/related\_searches/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/related\_searches/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/related\_searches/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/related\_searches/sample.json)
 
 ![](https://lh6.googleusercontent.com/8VYqw6rUhwsp-2DNzRzMxBZtSL6vGzLdrIMTVbK5f1gUZGkklA8VmhX8rwB4Ev1FQjL-W44e8sKNTdEW98FpfTLFAATKTqpsS23EtGRA0R8AOrp19sflemiv4sz7AFmq2JJRM08)
 

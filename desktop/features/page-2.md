@@ -1,6 +1,6 @@
 # Organic results
 
-[**HTML**](https://ascentkorea-docs.github.io/desktop/features/organic\_results/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/desktop/features/organic\_results/sample.json)
+[HTML](https://ascentkorea-docs.github.io/desktop/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/desktop/features/organic\_results/sample.json)
 
 ![](https://lh5.googleusercontent.com/khcuwAd6R631vliTNoEuACC663BuAEdWkBvx3DTeOJSiyIWAUomsuwoYzm9ln-iG3iUkD4gOsLNQ0XKKFaRfmS7Jo6s6iyo1CRGKo2gUs3cNyW0bq\_jvqzUfRh37eAHXoe446V4)
 

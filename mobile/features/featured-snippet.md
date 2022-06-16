@@ -2,7 +2,7 @@
 
 ## Common
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample1.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample1.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample1.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample1.json)
 
 ![](https://lh4.googleusercontent.com/DGY1VfLwmEgNzRPS5h0j4FvGC10\_ZPyu8QlZcpftbdSfthBNkO0rYQkhkWS-Y5XeMxp2rUaAEzP\_FXO5trmFBUmpCATqly\_FzsCOJD1L02Od6QSorFVND45vrVTNAK\_\_BpDKNhU)
 
@@ -25,7 +25,7 @@
 
 ## Emphasis
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample2.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample2.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample2.json)
 
 ![](https://lh3.googleusercontent.com/CwXcpE1X9Hr\_wldBxuUBBn3KBirGeoxxT4nHnrxXvhbTHPFHKrV5oo2qxbO03A94rkTXTczmHvfLjARjh6ZibRn0QkhesOCG0tt9Dw\_OMED5VkYoSgGs9ji75LPtq9Sdgs4Ffz0)
 
@@ -52,7 +52,7 @@
 
 ## **Rich snippet**
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample3.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample3.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample3.json)
 
 ![](https://lh4.googleusercontent.com/qZCdVVah1IyeTM8-vGnbYiPoXSPfMXKgOEkyuLYTNpKWER-rhpBk\_\_KJ7AxG6fOZbyvn7XH1V3\_JyqCpqNx4Q\_mkd5bBeqGpm7W1jkZgrVOBgCzVmw0Cf2DPRlX9hOBFGjCNBrk)
 
@@ -91,7 +91,7 @@
 
 ## Unordered list
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample4.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample4.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample4.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample4.json)
 
 ![](https://lh4.googleusercontent.com/CQ5yFU7HsRzg0OIM0jl2kPTtvqb222h0l2Nn3Qc-HxcTtmUflQL4Xz7P2C5VKlRMMx8R3kORL2hs3HsF8vdpBBbtUzB0\_C2155fJGraBRpIIW9RALlxG3Dys5KOh76ImreMjmOg)
 
@@ -125,7 +125,7 @@
 
 ## Ordered list
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample5.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample5.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample5.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample5.json)
 
 ![](https://lh4.googleusercontent.com/m7FgO7ODhCy8J128-iJ95ZTBxo\_p8ZisuSXeHQhyXz-Li9SJ2IkJvjp2H3Dle\_C4BSM34yqnwG\_mU4MSTbaWTk\_fgmMPNVj5CIwFEDRtRhG3Cvt0D8tarphgLkwLywrSpri0PLM)
 
@@ -159,7 +159,7 @@
 
 ## **Table**
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample6.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample6.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample6.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample6.json)
 
 ![](https://lh6.googleusercontent.com/ekxg9XKgqLIrw6x\_HKsouDZn3jaPQm169z9C\_Dj3iYO9ki4Rh1ir\_awaPK0xDxw\_x-ucpljGkT9JxqdskYt1xZuetk9Nd7szXvLXRiXHegbt6I5pYeEXF3s99uKN\_57xb3BPwyc)
 
@@ -206,7 +206,7 @@
 
 ## **Video exist**
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample7.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample7.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample7.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample7.json)
 
 ![](https://lh5.googleusercontent.com/Y1g-ZUAQoujZvVu7HfdDqflZprLM1lqIi\_YNEd7S1NUZ-2LhiKuzdo4xE7F1\_BMznkPMptdJUUktQ6xL7EFWJLAJbHm8hMNy2NmYsbouivMJ0u3K62-Fz1\_Qu15GN0XzOpSRDgU)
 
@@ -229,7 +229,7 @@
 
 ## Rich answer
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample8.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample8.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample8.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample8.json)
 
 ![](https://lh4.googleusercontent.com/Cx69rEqKJIxd1ByYKGY8qGW-Q-\_dTZmaKHinBEQeo3MS\_DT5tXPktdvKS-3fDNIp8S9AOBJrRDgGX1VBsgPWbyOiaC7qEMEOMj3Vq5NqoZvtwol6f-HI4FtDZSHDG80eBOiazQU)
 

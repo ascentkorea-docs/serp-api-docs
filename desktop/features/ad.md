@@ -1,6 +1,6 @@
 # Ad
 
-[**HTML**](https://ascentkorea-docs.github.io/desktop/features/ad/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/desktop/features/ad/sample.json)
+[HTML](https://ascentkorea-docs.github.io/desktop/features/ad/sample.html) [JSON](https://ascentkorea-docs.github.io/desktop/features/ad/sample.json)
 
 ![](https://lh4.googleusercontent.com/gcBruYBRtpsWyeKykAYlBkRjYq4kN-HWCau0A8q3miowkrsW0zu1nhdFS2aavgQnO\_M07o8IrkcoMrlHAj1WQG-PP0EQHgAP3SZ1V9LBa4Whw7Wpr6T7WG6FjQ1eh7Qrk1uoQ9k)
 

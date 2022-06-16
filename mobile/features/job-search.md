@@ -1,6 +1,6 @@
 # Job search
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/job\_search/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/job\_search/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/job\_search/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/job\_search/sample.json)
 
 ![](https://lh3.googleusercontent.com/k6vurdpapMsiOfvLqM5mGRW0l95WXFSEZX5tp8ewK9L3gYfVLn5Sa9uKV-Rev6Y-3COsPqGiCudBRXepjGc1sGF1IQQhVCfVY\_s2Fd2qjVSuojuH4YrSWbdnE3Q5YPjpzv37nbA)
 

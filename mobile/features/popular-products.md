@@ -1,6 +1,6 @@
 # Popular products
 
-[**HTML**](https://ascentkorea-docs.github.io/mobile/features/popular\_products/sample.html) **** [**JSON**](https://ascentkorea-docs.github.io/mobile/features/popular\_products/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/popular\_products/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/popular\_products/sample.json)
 
 ![](https://lh4.googleusercontent.com/DjSkxfOIqslSRfScemRNzJtwxZJtyeX9CMtddXVdYSMsfSl-EmG7Nm-aWjzg1ADQGXAe4yzqUzkN3UTEcatMWuCP1ODK305ylWQvxda8p9VFwHNEVqXK\_nAZdYvjAzYoQJJMfYk)
 
