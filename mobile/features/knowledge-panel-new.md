@@ -2,7 +2,7 @@
 
 ## **Rich snippet**
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample1.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample1.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample.json)
 
 ![](https://lh5.googleusercontent.com/St3Ds0iFRZKgUJquTiKSnA-sq46pyoyjIeo9wa0hoOAnG-y0vsCkqq1fWVKpT2GRlZw9q5nKbEN1T0XjWQO1--hILMjKbeP7Eatb6yZmUfgwc0zt\_3wk9YhRzOtH6COr7-1NBEw)
 

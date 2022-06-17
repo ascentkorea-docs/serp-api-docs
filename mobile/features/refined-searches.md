@@ -2,7 +2,7 @@
 
 ## Common
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/refined\_searches/sample1.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/refined\_searches/sample1.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/refined\_searches/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/refined\_searches/sample.json)
 
 ![](https://lh4.googleusercontent.com/Aty9nd284q\_rYLqBedr\_wp2pkUgHloIGVZEVs3vY1HlWR3xZu1JqIs5n7ro6\_kz9\_vbgXv-ESJIUAXYDL1uqnqMUAj9PeJ\_EsbqgnepvbXNNQYjIYcbJyODbKBR3n8tgDMY21Dw)
 

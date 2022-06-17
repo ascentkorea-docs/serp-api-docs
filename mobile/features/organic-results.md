@@ -4,7 +4,7 @@
 
 #### Image
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
 
 ![](https://lh3.googleusercontent.com/1ToAcpLuqZcdezDnjytsLRtTpUV8hR9x5TZjcpmoD04lOMEWjLT79t-r3vRGWaZy5jZzzyELG-uogunyFJk-ZHYWIiHyL26C-xwfXNkVlapd-jgOBaumR93niwZF7Y1v8-VFPLc)
 
@@ -30,7 +30,7 @@
 
 #### Video
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample1.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample1.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
 
 ![](../../../.gitbook/assets/organic\_thumbnail\_video.png)
 
@@ -54,7 +54,7 @@
 
 #### Direct video
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/thumbnail/sample2.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample2.json)
 
 ![](../../../.gitbook/assets/organic\_thumbnail\_direct\_videopng.png)
 
