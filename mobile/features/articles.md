@@ -35,8 +35,6 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/articles/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/articles/sample2.json)
 
-v
-
 ![](https://lh4.googleusercontent.com/7DE7F5OnQx87p8YyOStCdYomUd2PVa6n0xkKHYYBxpMSD0McqKXpUS1TjEovDbNtrhbVHNgi2zZSidprTRiMJjkxRU3vNTb4wnZyzPBA4SgxPNofd6aZiClSW4rwFFMb5nPd4rY)
 
 ```
