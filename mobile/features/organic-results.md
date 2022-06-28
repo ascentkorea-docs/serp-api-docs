@@ -1,4 +1,4 @@
-# Organic results
+# Organic results (new)
 
 ## Thumbnail
 
@@ -7,8 +7,6 @@
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
 
 ![](https://lh3.googleusercontent.com/1ToAcpLuqZcdezDnjytsLRtTpUV8hR9x5TZjcpmoD04lOMEWjLT79t-r3vRGWaZy5jZzzyELG-uogunyFJk-ZHYWIiHyL26C-xwfXNkVlapd-jgOBaumR93niwZF7Y1v8-VFPLc)
-
-
 
 ```
 {
@@ -32,7 +30,7 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
 
-![](../../../.gitbook/assets/organic\_thumbnail\_video.png)
+![](../../.gitbook/assets/organic\_thumbnail\_video.png)
 
 ```
 {
@@ -56,7 +54,7 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample2.json)
 
-![](../../../.gitbook/assets/organic\_thumbnail\_direct\_videopng.png)
+![](../../.gitbook/assets/organic\_thumbnail\_direct\_videopng.png)
 
 ```
 {
@@ -78,7 +76,7 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample2.json)
 
-![](../../../.gitbook/assets/organic\_carousels.png)
+![](../../.gitbook/assets/organic\_carousels.png)
 
 ```
 {
@@ -96,54 +94,66 @@
     },
     "carousels": [
         {
-            "title": "NFL 2022 schedule release: One man's zany format for league's newest must-see event, plus some real questions",
+            "url": "https://www.cbssports.com/nfl/news/nfl-2022-schedule-release-one-mans-zany-format-for-leagues-newest-must-see-event-plus-some-real-questions/amp/",
+            "title": "NFL 2022 schedule release: One man's zany format for league's newest \nmust-see event, plus some real questions",
             "date": "4 hours ago"
         },
         {
-            "title": "Howie Roseman addresses Eagles' needs in secondary after NFL Draft: 'We just have to keep working'",
+            "url": "https://www.cbssports.com/nfl/news/howie-roseman-addresses-eagles-needs-in-secondary-after-nfl-draft-we-just-have-to-keep-working/amp/",
+            "title": "Howie Roseman addresses Eagles' needs in secondary after NFL Draft: 'We \njust have to keep working'",
             "date": "6 hours ago"
         },
         {
-            "title": "Agent's Take: Determining a fair deal for Rams' Cooper Kupp in an exploding receivers market",
+            "url": "https://www.cbssports.com/nfl/news/agents-take-determining-a-fair-deal-for-rams-cooper-kupp-in-an-exploding-receivers-market/",
+            "title": "Agent's Take: Determining a fair deal for Rams' Cooper Kupp in an exploding \nreceivers market",
             "date": "7 hours ago"
         },
         {
-            "title": "Steelers' Mike Tomlin leads active NFL head coaches in significant category, including Bill Belichick",
+            "url": "https://www.cbssports.com/nfl/news/steelers-mike-tomlin-leads-active-nfl-head-coaches-in-significant-category-including-bill-belichick/amp/",
+            "title": "Steelers' Mike Tomlin leads active NFL head coaches in significant \ncategory, including Bill Belichick",
             "date": "7 hours ago"
         },
         {
-            "title": "2022 NFL schedule release: Broncos opponents, previews, full list of teams on regular-season schedule",
+            "url": "https://www.cbssports.com/nfl/news/2022-nfl-schedule-release-broncos-opponents-previews-full-list-of-teams-on-regular-season-schedule/amp/",
+            "title": "2022 NFL schedule release: Broncos opponents, previews, full list of teams \non regular-season schedule",
             "date": "8 hours ago"
         },
         {
-            "title": "Veterans who could be facing chopping block, plus NFL schedule leaks and 2023 top offensive prospects",
+            "url": "https://www.cbssports.com/nfl/news/veterans-who-could-be-facing-chopping-block-plus-nfl-schedule-leaks-and-2023-top-offensive-prospects/amp/",
+            "title": "Veterans who could be facing chopping block, plus NFL schedule leaks and \n2023 top offensive prospects",
             "date": "8 hours ago"
         },
         {
-            "title": "2022 NFL Draft: Chris Carson, Nelson Agholor and other veterans who could be replaced by rookies",
+            "url": "https://www.cbssports.com/nfl/news/2022-nfl-draft-chris-carson-nelson-agholor-and-other-veterans-who-could-be-replaced-by-rookies/amp/",
+            "title": "2022 NFL Draft: Chris Carson, Nelson Agholor and other veterans who could \nbe replaced by rookies",
             "date": "12 hours ago"
         },
         {
-            "title": "2022 NFL schedule release: Team-by-team opponents, previews, dates, times, TV, live streaming",
+            "url": "https://www.cbssports.com/nfl/news/2022-nfl-schedule-release-team-by-team-opponents-previews-dates-times-tv-live-streaming/",
+            "title": "2022 NFL schedule release: Team-by-team opponents, previews, dates, times, \nTV, live streaming",
             "date": "1 day ago"
         },
         {
-            "title": "Tom Brady reveals his NFL retirement plan is in the broadcast booth, but has 'unfinished business' with Bucs",
+            "url": "https://www.cbssports.com/nfl/news/tom-brady-reveals-his-nfl-retirement-plan-is-in-the-broadcast-booth-but-has-unfinished-business-with-bucs/amp/",
+            "title": "Tom Brady reveals his NFL retirement plan is in the broadcast booth, but \nhas 'unfinished business' with Bucs",
             "date": "1 day ago"
         },
         {
-            "title": "NFL 2022 schedule release: CBS reveals champion Rams will host Russell Wilson, Broncos on Christmas Day",
+            "url": "https://www.cbssports.com/nfl/news/nfl-2022-schedule-release-cbs-reveals-champion-rams-will-host-russell-wilson-broncos-on-christmas-day/amp/",
+            "title": "NFL 2022 schedule release: CBS reveals champion Rams will host Russell \nWilson, Broncos on Christmas Day",
             "date": "1 day ago"
         }
-    ]  
+    ]
 }
 ```
+
+* url 추가
 
 ## Rating
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample3.json)
 
-![](../../../.gitbook/assets/organic\_rating.png)
+![](../../.gitbook/assets/organic\_rating.png)
 
 ```
 {
@@ -171,7 +181,7 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample4.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample4.json)
 
-![](../../../.gitbook/assets/organic\_rich\_snippet.png)
+![](../../.gitbook/assets/organic\_rich\_snippet.png)
 
 ```
 {

@@ -1,4 +1,4 @@
-# Twitter
+# Twitter (new)
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/twitter/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/twitter/sample.json)
 
@@ -12,25 +12,32 @@
     "channel_name": "NFL",
     "carousels": [
         {
+            "url": "https://twitter.com/NFL/status/1524417798901952512?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
             "desc": "The hardest schedule vs. the easiest schedule. 👀\n\n📺: 2022 NFL Schedule Release -- Thursday at 8pm ET on @nflnetwork ",
             "date": "Twitter · 9 hours ago"
         },
         {
+            "url": "https://twitter.com/NFL/status/1524463097523671040?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
             "desc": "We'll take a large popcorn, please. 🍿\n\n@Bwagz | @RamsNFL\n\n📺: 2022 NFL Schedule Release -- Thursday, 5/12 at 8pm ET on @NFLNetwork ",
             "date": "Twitter · 6 hours ago"
         },
         {
+            "url": "https://twitter.com/NFL/status/1524478274067476488?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
             "desc": "Emmanuel Sanders honored Demaryius Thomas by visiting one of DT's most frequent stops: The Denver Broncos Boys & Girls Club 🧡 (THREAD ⬇️) ",
             "date": "Twitter · 5 hours ago"
         },
         {
+            "url": "https://twitter.com/NFL/status/1524523495656460290?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
             "desc": ".@RamsNFL vs. @Buccaneers was an absolute thriller in the playoffs. 🔥\n\nCan't wait to see when we get the rematch this season.\n\n📺:  2022 NFL Schedule Release -- Thursday at 8pm ET on @nflnetwork ",
             "date": "Twitter · 2 hours ago"
         },
         {
+            "url": "https://twitter.com/NFL/status/1524432898669125636?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
             "desc": "We get not one but two matchups next season between the last two rushing champs. 🙌🙌\n\n@KingHenry_2 | @JayT23\n\n📺: 2022 NFL Schedule Release -- Thursday at 8pm ET on @NFLNetwork ",
             "date": "Twitter · 8 hours ago"
         }
     ]
 }
 ```
+
+* url 추가

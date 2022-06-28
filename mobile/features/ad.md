@@ -1,10 +1,10 @@
-# Ad
+# Ad (new)
 
 ## Common
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/ad/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/ad/sample.json)
 
-![](../../../.gitbook/assets/ad\_common.png)
+![](../../.gitbook/assets/ad\_common.png)
 
 ```
 {
@@ -21,69 +21,83 @@
 
 ## Carousels
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/ad/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/ad/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/ad/sample1.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/ad/sample1.json)
 
-![](https://lh5.googleusercontent.com/etWoDuGP1JQ15ocrS4z29KJ1AH7bdWUM03Ig1LpZULKLSUdXS-EOUGASsO9ppEZ6mAQQ2GGH4y5lCku447J\_M88IGd7hCZBDj6a8hqcNupy44f7LNckZb7TmSYrKs4yKV0io500)
+![](<../../.gitbook/assets/image (4).png>)
 
 ```
 {
-    "sequence": 1,
+    "sequence": 3,
     "type": "ad",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
-    "position": 1,
-    "displayed_link": "https://shop.uplus.co.kr/",
-    "title": "LG U+Shop 공식사이트 - 유플러스샵",
-    "url": "https://shop.uplus.co.kr/",
-    "snippet": "국내 유일! 네이버페이/GS25/요기요 최대 18만원 할인쿠폰은 U+샵에서만. 역시 U+Shop 유샵단독 기프트 증정, 통신비 25% 할인까지!",
+    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(5).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.EtOod.pkphOe",
+    "position": 3,
+    "displayed_link": "https://direct.lghellovision.net/",
+    "title": "LG헬로모바일 공식온라인몰 - 최대 7만원상당 혜택",
+    "url": "https://direct.lghellovision.net/event/viewEventDetailGuest.do",
+    "snippet": "비교불가 71GB+ 무제한 요금제가 월 3만원대! 최대 7만원 상당 혜택 증정. 이통3사 고객 78%가 LG헬로모바일로 환승! LG헬로모바일 공식몰. 배송/상담/개통 번개서비스.",
     "carousels": [
         {
-            "title": "갤럭시S22"
+            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAEGgJ0bQ&ae=2&sig=AOD64_0_nd-dybuYHjRzTcGmSyiamOKaHg&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAB6BAgEEAs&adurl=",
+            "title": "5GB+X통화 무제한 15,900원5GB+X통화 무제한 15,900원"
         },
         {
-            "title": "아이폰SE3"
+            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAGGgJ0bQ&ae=2&sig=AOD64_3EGL-4XNYb_a1SIS1pOevfUOdFXA&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAF6BAgEEAw&adurl=",
+            "title": "데이터X통화무제한14,900원데이터X통화무제한14,900원"
         },
         {
-            "title": "아이폰13"
+            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAHGgJ0bQ&ae=2&sig=AOD64_08jmd6Aq4bN2RrB5F_xZOmvzoMbw&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAJ6BAgEEA0&adurl=",
+            "title": "가성비 요금제 5,500원가성비 요금제 5,500원"
         },
         {
-            "title": "ZFlip3"
+            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAIGgJ0bQ&ae=2&sig=AOD64_2gXQdQ5XDfDHfXz79bCapxkBofiA&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAN6BAgEEA4&adurl=",
+            "title": "통화무제한 특가 7,900원통화무제한 특가 7,900원"
+        },
+        {
+            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAJGgJ0bQ&ae=2&sig=AOD64_149gy7_Jr9wU_qdGgZ6OL7EFoYYQ&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAR6BAgEEA8&adurl=",
+            "title": "1GB+X통화 무제한 11,550원1GB+X통화 무제한 11,550원"
+        },
+        {
+            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAKGgJ0bQ&ae=2&sig=AOD64_0bEoBmz4BEnyRzf9-0eQf80htzHw&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAV6BAgEEBA&adurl=",
+            "title": "1GB+X100분 8,900원1GB+X100분 8,900원"
         }
     ]
 }
 ```
+
+* url 추가
 
 ## Site links
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/ad/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/ad/sample2.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/ad/sample1.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/ad/sample1.json)
 
-![](https://lh4.googleusercontent.com/t41cvC2O96de0hZAR20\_Sbpxm0OsbN6WBzi1eYv8pkkjTZa7oyCt807biLPGXBkg5Ov6UW\_Wc8LoakRf9IPVAhX7NNOVWxUM-xr\_m9qXxT-lTO8hClDNVDlvzIZsYBhpf6lDUjU)
+![](<../../.gitbook/assets/image (3).png>)
 
 ```
 {
     "sequence": 1,
     "type": "ad",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.EtOod.pkphOe",
     "position": 1,
-    "displayed_link": "http://www.marketingking.co.kr/",
-    "title": "유튜브 광고 - 배너+페이스북 광고",
-    "url": "http://marketingking.co.kr/package/full_package.php",
-    "snippet": "광고기획, 디자인, 운영까지 원스톱으로 진행되는 마케팅의 왕 풀 패키지! 다양한 플랫폼과 광고 전략을 활용한 효율적인 마케팅, 마케팅의 왕.",
+    "displayed_link": "https://www.lguplus.com/",
+    "title": "일상을 바꿉니다. LGU+ - 고객이 더 행복해지는 LGU+",
+    "url": "https://www.lguplus.com/",
+    "snippet": "일상을 바꾸는 U+ 5G와 모바일, 인터넷, IPTV, IoT, 인공지능 등의 다양한 서비스를 만나보세요. 일상을...",
     "sitelinks": [
         {
-            "title": "국내마케팅",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(1).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABADGgJ0bQ&ae=2&sig=AOD64_1ynUVCO6Fi4aU31V05omhEBajk-A&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQwgUoAHoECAMQCg&adurl=",
+            "title": "유플러스닷컴 Grand Open",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.EtOod.pkphOe > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(1).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
         },
         {
-            "title": "해외마케팅",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(3).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
-        },
-        {
-            "title": "상담 신청",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(5).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.OMVs0e.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAFGgJ0bQ&ae=2&sig=AOD64_33LtJ2zlRXu7tV3gIFcI4VqsBhpw&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQwgUoAXoECAMQCw&adurl=",
+            "title": "유월엔 유+플 페스타 Event",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.EtOod.pkphOe > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(3).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.OMVs0e.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
         }
     ]
 }
 ```
+
+* url 추가
 
 ## **Rating**
 
@@ -106,4 +120,3 @@
     }
 }
 ```
-
