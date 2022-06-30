@@ -2,7 +2,7 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/google\_play/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/google\_play/sample.json)
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 ```
 {

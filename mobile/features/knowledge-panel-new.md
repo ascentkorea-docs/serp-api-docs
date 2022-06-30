@@ -1,4 +1,4 @@
-# Knowledge panel (new)
+# Knowledge panel
 
 ## **Rich snippet**
 
@@ -761,7 +761,7 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample5.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/knowledge\_panel/sample5.json)
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ```
 {
