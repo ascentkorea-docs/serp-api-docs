@@ -2,7 +2,7 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/discover\_more\_places/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/discover\_more\_places/sample.json)
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ```
 {
