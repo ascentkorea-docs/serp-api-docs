@@ -14,39 +14,39 @@
     "title": "Refine this search",
     "refinements": [
         {
-            "text": "Alternative",
+            "text": "Alternative pop bands",
             "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).SQeNI > g-scrolling-carousel.G1Mgp.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).qNXGm > div:nth-child(1).Icecwf"
         },
         {
-            "text": "Swedish",
+            "text": "Swedish pop group",
             "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).SQeNI > g-scrolling-carousel.G1Mgp.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).qNXGm > div:nth-child(2).Icecwf"
         },
         {
-            "text": "Pop bands ",
+            "text": "Pop bands 2000s",
             "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).SQeNI > g-scrolling-carousel.G1Mgp.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).qNXGm > div:nth-child(3).Icecwf"
         },
         {
-            "text": "punk",
+            "text": "punk pop bands",
             "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).SQeNI > g-scrolling-carousel.G1Mgp.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(2).qNXGm > div:nth-child(1).Icecwf"
         },
         {
-            "text": "dancing queen",
+            "text": "dancing queen pop group",
             "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).SQeNI > g-scrolling-carousel.G1Mgp.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(2).qNXGm > div:nth-child(2).Icecwf"
         },
         {
-            "text": "K",
+            "text": "K pop pop bands",
             "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).SQeNI > g-scrolling-carousel.G1Mgp.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(2).qNXGm > div:nth-child(3).Icecwf"
         },
         {
-            "text": "Indie",
+            "text": "Indie pop bands",
             "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).SQeNI > g-scrolling-carousel.G1Mgp.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(3).qNXGm > div:nth-child(1).Icecwf"
         },
         {
-            "text": "Sub",
+            "text": "Sub Pop bands",
             "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).SQeNI > g-scrolling-carousel.G1Mgp.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(3).qNXGm > div:nth-child(2).Icecwf"
         },
         {
-            "text": "Pop bands ",
+            "text": "Pop bands 2022",
             "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).SQeNI > g-scrolling-carousel.G1Mgp.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(3).qNXGm > div:nth-child(3).Icecwf"
         }
     ]
