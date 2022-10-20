@@ -19,7 +19,7 @@
 }
 ```
 
-## Carousels
+## Refinements
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/ad/sample1.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/ad/sample1.json)
 
@@ -31,34 +31,35 @@
     "type": "ad",
     "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(5).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.EtOod.pkphOe",
     "position": 3,
+    "ad_tag": "광고",
     "displayed_link": "https://direct.lghellovision.net/",
     "title": "LG헬로모바일 공식온라인몰 - 최대 7만원상당 혜택",
     "url": "https://direct.lghellovision.net/event/viewEventDetailGuest.do",
     "snippet": "비교불가 71GB+ 무제한 요금제가 월 3만원대! 최대 7만원 상당 혜택 증정. 이통3사 고객 78%가 LG헬로모바일로 환승! LG헬로모바일 공식몰. 배송/상담/개통 번개서비스.",
-    "carousels": [
+    "refinements": [
         {
-            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAEGgJ0bQ&ae=2&sig=AOD64_0_nd-dybuYHjRzTcGmSyiamOKaHg&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAB6BAgEEAs&adurl=",
-            "title": "5GB+X통화 무제한 15,900원5GB+X통화 무제한 15,900원"
+            "text": "5GB+X통화 무제한 15,900원",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(5).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.EtOod.pkphOe > div:nth-child(5).Buc2Me > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel#_k3u7YvuNNsj0-QbRgpe4BA9.fjqoab > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.m8vZ3d > div:nth-child(1).qqKaSb.CHqd.dJMePd > div:nth-child(1).dJMePd > a.X5eyzb.unhzXb > span.MUxGbd"
         },
         {
-            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAGGgJ0bQ&ae=2&sig=AOD64_3EGL-4XNYb_a1SIS1pOevfUOdFXA&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAF6BAgEEAw&adurl=",
-            "title": "데이터X통화무제한14,900원데이터X통화무제한14,900원"
+            "text": "데이터X통화무제한14,900원",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(5).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.EtOod.pkphOe > div:nth-child(5).Buc2Me > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel#_k3u7YvuNNsj0-QbRgpe4BA9.fjqoab > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.m8vZ3d > div:nth-child(2).qqKaSb.dJMePd > div:nth-child(1).dJMePd > a.X5eyzb.unhzXb > span.MUxGbd"
         },
         {
-            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAHGgJ0bQ&ae=2&sig=AOD64_08jmd6Aq4bN2RrB5F_xZOmvzoMbw&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAJ6BAgEEA0&adurl=",
-            "title": "가성비 요금제 5,500원가성비 요금제 5,500원"
+            "text": "가성비 요금제 5,500원",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(5).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.EtOod.pkphOe > div:nth-child(5).Buc2Me > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel#_k3u7YvuNNsj0-QbRgpe4BA9.fjqoab > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.m8vZ3d > div:nth-child(3).qqKaSb.dJMePd > div:nth-child(1).dJMePd > a.X5eyzb.unhzXb > span.MUxGbd"
         },
         {
-            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAIGgJ0bQ&ae=2&sig=AOD64_2gXQdQ5XDfDHfXz79bCapxkBofiA&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAN6BAgEEA4&adurl=",
-            "title": "통화무제한 특가 7,900원통화무제한 특가 7,900원"
+            "text": "통화무제한 특가 7,900원",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(5).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.EtOod.pkphOe > div:nth-child(5).Buc2Me > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel#_k3u7YvuNNsj0-QbRgpe4BA9.fjqoab > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.m8vZ3d > div:nth-child(4).qqKaSb.dJMePd > div:nth-child(1).dJMePd > a.X5eyzb.unhzXb > span.MUxGbd"
         },
         {
-            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAJGgJ0bQ&ae=2&sig=AOD64_149gy7_Jr9wU_qdGgZ6OL7EFoYYQ&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAR6BAgEEA8&adurl=",
-            "title": "1GB+X통화 무제한 11,550원1GB+X통화 무제한 11,550원"
+            "text": "1GB+X통화 무제한 11,550원",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(5).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.EtOod.pkphOe > div:nth-child(5).Buc2Me > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel#_k3u7YvuNNsj0-QbRgpe4BA9.fjqoab > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.m8vZ3d > div:nth-child(5).qqKaSb.dJMePd > div:nth-child(1).dJMePd > a.X5eyzb.unhzXb > span.MUxGbd"
         },
         {
-            "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwir5JqTlNH4AhV5wUwCHZ1gAJgYABAKGgJ0bQ&ae=2&sig=AOD64_0bEoBmz4BEnyRzf9-0eQf80htzHw&q=&ved=2ahUKEwi7o5WTlNH4AhVIet4KHVHBBUcQvrcBKAV6BAgEEBA&adurl=",
-            "title": "1GB+X100분 8,900원1GB+X100분 8,900원"
+            "text": "1GB+X100분 8,900원",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(5).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.EtOod.pkphOe > div:nth-child(5).Buc2Me > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel#_k3u7YvuNNsj0-QbRgpe4BA9.fjqoab > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.m8vZ3d > div:nth-child(6).qqKaSb.dJMePd > div:nth-child(1).dJMePd > a.X5eyzb.unhzXb > span.MUxGbd"
         }
     ]
 }
