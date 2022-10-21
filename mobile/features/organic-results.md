@@ -71,23 +71,24 @@
 
 #### Direct video
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample6.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample6.json)
 
-![](../../.gitbook/assets/organic\_thumbnail\_direct\_videopng.png)
+![](../../.gitbook/assets/organic\_thumbnail\_direct\_videopng2.png)
 
 ```
 {
-    "sequence": 20,
-    "type": "organic_results",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.PHap3c",
-    "position": 19,
-    "displayed_link": "https://m.youtube.com · 밝은 면 Bri...",
-    "title": "알로에 베라 오일을 만들었더니, 머리가 두 배는 빨리 자라게 되었어요! - YouTube",
-    "url": "https://m.youtube.com/watch?v=0ljX4ijZCTM",
-    "thumbnail": {
-        "type": "direct_video",
-        "url": "https://m.youtube.com/watch?v=0ljX4ijZCTM&t=72"
-    }
+   "sequence": 14
+   "type": "organic_results"
+   "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb"
+   "position": 11
+   "displayed_link": "https://m.timesofindia.com › tamil"
+   "title": "Best Children Tamil Nursery Song 'Kokkupaaru' - Kids Nursery Songs In Tamil | Entertainment - Times of India Videos"
+   "url": "https://m.timesofindia.com/videos/entertainment/kids/tamil/best-children-tamil-nursery-song-kokkupaaru-kids-nursery-songs-in-tamil/videoshow/71370233.cms"
+   "thumbnail": {
+    "type": "direct_video"
+    "url": "https://m.timesofindia.com/videos/entertainment/kids/tamil/best-children-tamil-nursery-song-kokkupaaru-kids-nursery-songs-in-tamil/videoshow/71370233.cms"
+    "date": "2019. 9. 30."
+   }
 }
 ```
 
@@ -278,5 +279,54 @@
             "value": "창의력에 의한 많은 아이디어 작성을 통해 해결"
         }
     ]
+}
+```
+
+## Refinements
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample7.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample7.json)
+
+![](../../.gitbook/assets/organic\_refinements.png)
+
+```
+{
+   "sequence": 1
+   "type": "organic_results"
+   "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe"
+   "position": 1
+   "displayed_link": "https://www.in.or.kr"
+   "title": "보험연수원"
+   "url": "https://www.in.or.kr/"
+   "snippet": "4차산업기술 BIG5! 수강료: 129,360원; 교육기간: 1개월/21시간; 교육형태: 사이버."
+   "refinements": [
+    {
+     "text": "모집종사자"
+     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+    },
+    {
+     "text": "회원 로그인"
+     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+    },
+    {
+     "text": "자격시험"
+     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+    },
+    {
+     "text": "보험심사역"
+     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+    },
+    {
+     "text": "주요사업"
+     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+    },
+    {
+     "text": "사이버교육"
+     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+    },
+    {
+     "text": "보험연수원"
+     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
+   }
+  ]
 }
 ```
