@@ -1,4 +1,4 @@
-# Images (new)
+# Images (updated)
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/images/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/images/sample.json)
 
@@ -109,5 +109,3 @@
     ]
 }
 ```
-
-* landing url 추가

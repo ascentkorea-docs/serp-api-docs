@@ -15,7 +15,7 @@
   * [Featured snippet](mobile/features/featured-snippet.md)
   * [Google play](mobile/features/google-play.md)
   * [Graph](mobile/features/graph.md)
-  * [Images (new)](mobile/features/images.md)
+  * [Images (updated)](mobile/features/images.md)
   * [Interesting finds](mobile/features/interesting-finds.md)
   * [Job search](mobile/features/job-search.md)
   * [Knowledge panel](mobile/features/knowledge-panel-new.md)
@@ -37,8 +37,8 @@
   * [Sticky header tabs](mobile/features/sticky-header-tabs.md)
   * [Twitter](mobile/features/twitter.md)
   * [Unit converter](mobile/features/unit-converter.md)
-  * [Video carousels (updated)](mobile/features/video-carousels.md)
-  * [Video results (updated)](mobile/features/video-results.md)
+  * [Video carousels (new)](mobile/features/video-carousels.md)
+  * [Video results (new)](mobile/features/video-results.md)
 
 ## Desktop
 
