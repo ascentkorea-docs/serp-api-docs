@@ -1,4 +1,4 @@
-# Ad (new)
+# Ad
 
 ## Common
 
@@ -71,7 +71,7 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/ad/sample1.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/ad/sample1.json)
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 ```
 {
