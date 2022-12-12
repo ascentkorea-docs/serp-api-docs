@@ -1,46 +1,53 @@
+---
+description: 'field 추가: date(date 값을 100% 보장하지 않음) [git_issues](https://github.com/ascentkorea/mongttang_google_parser/issues/251)'
+---
+
 # Organic results (new)
+
 
 ## Common
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
 
-![](<../../.gitbook/assets/image (7).png>)
-
-```
-{
-    "type": "organic_results",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
-    "position": 1,
-    "displayed_link": "http://www.bosa.co.kr › articleView",
-    "title": "샴푸 키워드는 '미세먼지', '탈모' < 화장품 < 유관산업 < 기사본문 - 의학신문",
-    "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2106897",
-    "snippet": "2019. 6. 12. — 샴푸를 뷰티 제품으로 인식하는 2030을 중심으로 미세먼지 클렌징 및 탈모 케어를 돕는 제품에 대한 관심이 ... 샴푸 키워드는 '미세먼지', '탈모'.",
-    "sequence": 1
-}
-```
-
-## Thumbnail
-
-[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
-
-#### Image
-
-![](https://lh3.googleusercontent.com/1ToAcpLuqZcdezDnjytsLRtTpUV8hR9x5TZjcpmoD04lOMEWjLT79t-r3vRGWaZy5jZzzyELG-uogunyFJk-ZHYWIiHyL26C-xwfXNkVlapd-jgOBaumR93niwZF7Y1v8-VFPLc)
+![](../../.gitbook/assets/organic\_common.png)
 
 ```
 {
     "sequence": 3,
     "type": "organic_results",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+    "position": 3,
+    "displayed_link": "https://jmtgame.com › bbs › board",
+    "date": "2012. 4. 21.",
+    "title": "눈 몬스터의 침입 (고급) > 쥬니어네이버 - 존맛탱게임",
+    "url": "https://jmtgame.com/bbs/board.php?bo_table=NaverGame&wr_id=152",
+    "snippet": "2012. 4. 21. — GAME SUBJECT눈 몬스터의 침입 (고급) KEY FEATURES마우스 INSTRUCTION귀여운 몽키 그러니까 원숭이가 나오는 게임인데요, 마우스를 잘 활용을 하셔서 ..."
+}
+```
+
+## Thumbnail
+
+#### Image
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
+
+![](../../.gitbook/assets/organic\_thumbnail\_image.png)
+
+```
+{
+    "sequence": 2,
+    "type": "organic_results",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
     "position": 2,
-    "displayed_link": "http://m.finomy.com › articleView",
-    "title": "뷰티업계 샴푸 전쟁…키워드는 탈모·딥클렌징 - 현대경제신문",
-    "url": "http://m.finomy.com/news/articleView.html?idxno=78147",
-    "snippet": "2020. 5. 19. — 화학성분은 최소화하고 재활용이 쉬운 패키지를 사용했다. 제로톡스 두피정화 샴푸는 자연유래 추출물이 담겼다. 청정지역 제주 녹차수를 15% 함유해 두피 ...",
+    "displayed_link": "https://flashgamemall.tistory.com › ...",
+    "date": "2021. 2. 24.",
+    "title": "눈몬스터의 침입 (뭉게뭉게 왕국을 지켜라) - 플래시게임몰",
+    "url": "https://flashgamemall.tistory.com/710",
+    "snippet": "2021. 2. 24. — 눈몬스터의 침입 조작키 - 마우스 게임방법 : 마우스를 이용하여 캐릭터를 선택하고 클릭을 한 상태로 ... 동물농장 > 초급' 카테고리의 다른 글 ...",
     "thumbnail": {
         "type": "image",
-        "url": "http://m.finomy.com/news/articleView.html?idxno=78147",
-        "desc": "샴푸 키워드(출처: m.finomy.com)"
+        "url": "https://flashgamemall.tistory.com/710",
+        "desc": "동물 농장 눈 몬스터 의 침입(출처: flashgamemall.tistory.com)"
     }
 }
 ```
@@ -53,18 +60,19 @@
 
 ```
 {
-    "sequence": 13,
+    "sequence": 5,
     "type": "organic_results",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(46) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
-    "position": 9,
-    "displayed_link": "https://imnews.imbc.com › article",
-    "title": "[스마트 리빙] 여름철 탈모 막는 '올바른 샴푸법' 外 - MBC뉴스",
-    "url": "https://imnews.imbc.com/replay/2018/nwtoday/article/4679487_30188.html",
-    "snippet": "2018. 7. 4. — 여름철 탈모 막는 '올바른 샴푸법' 요샌 나이 상관없이 탈모 때문에 고민하는 사람들이 많죠. 특히, 자외선이 강하고 습도 높은 여름엔 탈모 예방을 ...",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(5) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+    "position": 5,
+    "displayed_link": "https://gamegogo.co.kr › bbs › board",
+    "date": "2021. 3. 21.",
+    "title": "눈 몬스터의 침입 (고급) > 추억_쥬니어네이버게임 모음 | 게임고고 [플래시게임 아카이브]",
+    "url": "https://gamegogo.co.kr/bbs/board.php?bo_table=game_navergame&wr_id=64",
+    "snippet": "2021. 3. 21. — 크라라 공주와 이상한 방 (고급) - 쥬니버 동물농장 … 작성자 최고관리자 작성일 03-21 조회 7258.",
     "thumbnail": {
         "type": "video",
-        "url": "https://imnews.imbc.com/replay/2018/nwtoday/article/4679487_30188.html",
-        "desc": "여름 탈모샴푸 동영상"
+        "url": "https://gamegogo.co.kr/bbs/board.php?bo_table=game_navergame&wr_id=64",
+        "desc": "동물 농장 눈 몬스터 의 침입 동영상"
     }
 }
 ```
@@ -167,8 +175,6 @@
 }
 ```
 
-* url 추가
-
 ## Site links
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample5.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample5.json)
@@ -258,27 +264,25 @@
 {
     "sequence": 13,
     "type": "organic_results",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
-    "position": 10,
-    "displayed_link": "https://knowledge-is-power.tistory.com › ...",
-    "title": "[직업기초능력평가_문제해결능력]공기업 NCS 모듈형 워크북 요약정리 #1 - 아토즈 티스토리",
-    "url": "https://knowledge-is-power.tistory.com/157",
-    "snippet": "2021. 4. 8. — 모듈형 NCS 전체 10개 능력 중 세번째인 문제해결능력입니다. 문제해결능력은 2개의 하위영역으로 나누어지며 2개의 포스팅으로 나누어 올릴예정 ...",
-    "thumbnail": {
-        "type": "image",
-        "url": "https://knowledge-is-power.tistory.com/157",
-        "desc": "문제해결능력 직업(출처: knowledge-is-power.tistory.com)"
-    },
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+    "position": 11,
+    "displayed_link": "https://korean.alibaba.com › Blue-to...",
+    "title": "파란 이 숫자 키보드 Protable 키패드 쪼개는 도구 안드로이드 전화 아이패드 맥북 Windows를 위한 알루미늄 합금 덮개",
+    "url": "https://korean.alibaba.com/product-detail/Blue-tooth-Numeric-Keyboard-Protable-Keypad-60591227877.html",
+    "snippet": "파란 이 숫자 키보드 Protable 키패드 쪼개는 도구 안드로이드 전화 아이패드 ... Ios 안드로이드 윈도우,2.4ghz 미니 Usb 무선 숫자 키패드 19 키 숫자 패드 범퍼 ...",
     "properties": [
         {
-            "key": "문제 제시 방법",
-            "value": "현재 문제가 없지만 보다 나은 방법을 찾기 위한 문제 탐구로, 문제 자체..."
+            "key": "특징",
+            "value": "숫자 키패드"
         },
         {
-            "key": "해결 방법",
-            "value": "창의력에 의한 많은 아이디어 작성을 통해 해결"
+            "key": "유형",
+            "value": "Bluetooth 무선"
         }
-    ]
+    ],
+    "rating": {
+        "rating_value": "3.5"
+    }
 }
 ```
 
@@ -328,5 +332,42 @@
      "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
    }
   ]
+}
+```
+
+## images
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample8.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample8.json)
+
+![](../../.gitbook/assets/organic\_images.png)
+
+```
+{
+    "sequence": 2,
+    "type": "organic_results",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(29) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+    "position": 1,
+    "displayed_link": "https://m.blog.naver.com › king-hong",
+    "date": "2018. 6. 4.",
+    "title": "세계에서 가장 특이한 건물(건축물) - 네이버 블로그",
+    "url": "https://m.blog.naver.com/king-hong/221291311598",
+    "snippet": "2018. 6. 4. — '슈틴쉬 잘레브스키'란 건축회사가 지은 건물이다. ... 거인국의 한 장면을 보는듯한 착각이 들게 한다. ... 회사를 알리기 위한 홍보수단으로 만들어졌다.",
+    "images": [
+        {
+            "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+        },
+        {
+            "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+        },
+        {
+            "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+        },
+        {
+            "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+        },
+        {
+            "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
+        }
+    ]
 }
 ```

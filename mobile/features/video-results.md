@@ -2,7 +2,7 @@
 description: 'field 추가: date'
 ---
 
-# Video results (new)
+# Video results
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/video\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/video\_results/sample.json)
 
