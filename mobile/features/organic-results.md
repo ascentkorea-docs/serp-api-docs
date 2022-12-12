@@ -1,8 +1,9 @@
 ---
-description: 'field 추가: date(date 값을 100% 보장하지 않음) [git_issues](https://github.com/ascentkorea/mongttang_google_parser/issues/251)'
+description: 'field 추가: date(date 값을 100% 보장하지 않음)'
 ---
 
 # Organic results (new)
+[git_issues](https://github.com/ascentkorea/mongttang_google_parser/issues/251)
 
 
 ## Common
