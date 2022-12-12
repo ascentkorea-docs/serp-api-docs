@@ -1,5 +1,6 @@
 ---
-description: 'field 추가: date(date 값을 100% 보장하지 않음)'
+description: 'field 추가: date(date 값을 100% 보장하지 않음)', 
+[신규] organic_results images 추가
 ---
 
 # Organic results
