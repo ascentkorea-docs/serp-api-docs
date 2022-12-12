@@ -2,7 +2,7 @@
 description: 'field 추가: date'
 ---
 
-# Video carousels (new)
+# Video carousels
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/video\_carousels/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/video\_carousels/sample.json)
 
