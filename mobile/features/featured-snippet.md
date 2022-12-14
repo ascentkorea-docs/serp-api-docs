@@ -256,3 +256,28 @@
     "official": false
 }
 ```
+
+## Modified question
+
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample9.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample9.json)
+
+![](../.gitbook/assets/../../../.gitbook/assets/featured_snippet_sample_09.png)
+
+```
+{
+    "sequence": 9,
+    "type": "featured_snippet",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).MjjYud > block-component > div:nth-child(1).g.kno-result.Ww4FFb.vt6azd.wF4fFd.JnwWd.g-blk",
+    "results": [
+        {
+            "modified_question": "How do I download the Sunday Times?",
+            "title": "Get the Sunday Times Daily app or daily email newsletter - Times Select",
+            "displayed_link": "https://select.timeslive.co.za › pages",
+            "url": "https://select.timeslive.co.za/pages/tsnewsletter/",
+            "snippet": "You can download the Sunday Times Daily app from the Google Play store and Apple's App Store."
+        }
+    ],
+    "official": true
+}
+```
