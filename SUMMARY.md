@@ -30,7 +30,7 @@
   * [Refined searches](mobile/features/refined-searches.md)
   * [Related searches](mobile/features/related-searches.md)
   * [Safe search](mobile/features/safe-search.md)
-  * [Scholar](mobile/features/scholar.md)
+  * [Scholar (new)](mobile/features/scholar.md)
   * [Shops](mobile/features/shops.md)
   * [Sns](mobile/features/sns.md)
   * [Spell check](mobile/features/spell-check.md)
