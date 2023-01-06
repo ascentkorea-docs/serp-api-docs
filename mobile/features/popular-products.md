@@ -1,400 +1,234 @@
-# Popular products (new)
+# Popular products
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/popular\_products/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/popular\_products/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/popular\_products/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/popular\_products/sample2.json)
 
-![](https://lh4.googleusercontent.com/DjSkxfOIqslSRfScemRNzJtwxZJtyeX9CMtddXVdYSMsfSl-EmG7Nm-aWjzg1ADQGXAe4yzqUzkN3UTEcatMWuCP1ODK305ylWQvxda8p9VFwHNEVqXK\_nAZdYvjAzYoQJJMfYk)
+![](https://user-images.githubusercontent.com/111344654/210920439-28afc484-774c-4374-a719-bae49a0d0054.png)
 
 ```
 {
-    "sequence": 9,
+    "sequence": 3,
     "type": "popular_products",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2",
-    "title": "Top Lenovo Laptops",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2",
+    "title": "人気商品",
     "refinements": [
         {
-            "text": "Up to $450",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(1).bp6B7c"
+            "text": "￥34,999以下",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > div:nth-child(1).aKcaNe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > ul.IvwE0d > li:nth-child(1).bp6B7c"
         },
         {
-            "text": "$450 - $800",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(2).bp6B7c"
-        },
-        {
-            "text": "Over $800",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(3).bp6B7c"
-        },
-        {
-            "text": "Touchscreen",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(4).bp6B7c"
-        },
-        {
-            "text": "Chromebook",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(5).bp6B7c"
-        },
-        {
-            "text": "For Gaming",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(6).bp6B7c"
-        },
-        {
-            "text": "Convertible",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(7).bp6B7c"
-        },
-        {
-            "text": "Chrome OS",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(8).bp6B7c"
-        },
-        {
-            "text": "Windows OS",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(9).bp6B7c"
-        },
-        {
-            "text": "Silver",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(10).bp6B7c"
-        },
-        {
-            "text": "Black",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(11).bp6B7c"
-        },
-        {
-            "text": "Gray",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(12).bp6B7c"
-        },
-        {
-            "text": "Solid State Drive",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(13).bp6B7c"
-        },
-        {
-            "text": "Hard Disk Drive",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(14).bp6B7c"
-        },
-        {
-            "text": "HDMI",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(15).bp6B7c"
-        },
-        {
-            "text": "USB-C",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(16).bp6B7c"
-        },
-        {
-            "text": "Ethernet",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(17).bp6B7c"
-        },
-        {
-            "text": "Netbook",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(18).bp6B7c"
-        },
-        {
-            "text": "3840 x 2160",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(19).bp6B7c"
-        },
-        {
-            "text": "NVIDIA GPU",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(20).bp6B7c"
+            "text": "￥34,999以上",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > div:nth-child(1).aKcaNe > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > ul.IvwE0d > li:nth-child(2).bp6B7c"
         }
     ],
     "items": [
         {
-            "url": "https://www.laptopmag.com/reviews/lenovo-yoga-7i-14-inch",
-            "title": "Lenovo Yoga 7 (14)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(1).gXGikb.wTrwWd",
-            "price": "$699.99$900",
-            "provider": "BBest Buyand 10+ stores",
+            "title": "WeatherTech ( 445041*) FloorLiner、フロント、ブラック",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(1).gXGikb > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥35,440",
+            "provider": "Aamazon.co.jp",
             "rating": {
-                "rating_value": "(5k+)"
+                "rating_value": "5.0",
+                "rating_count": "(9)"
             }
         },
         {
-            "url": "https://www.pcmag.com/picks/the-best-budget-laptops",
-            "title": "Lenovo Duet Chromebook (10.1)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(2).gXGikb.wTrwWd",
-            "price": "$242.99",
-            "provider": "TTechinn.comand 10+ stores",
+            "title": "WeatherTech FloorLiner HP Custom Fit Floor Mats for Hyundai Sonata-1 st&2 nd",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(2).gXGikb > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥82,266",
+            "provider": "YYahoo!ショッピング - Grand-terrace"
+        },
+        {
+            "title": "WeatherTech | Front Floor Liners フロアライナー",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(3).gXGikb > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥34,800",
+            "provider": "AArk Products"
+        },
+        {
+            "title": "WeatherTechカスタムフィットフロントFloorLiner forジープラングラー、ブラック B000KL3E48",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(4).gXGikb > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥49,535",
+            "provider": "Aamazon.co.jp",
             "rating": {
-                "rating_value": "(5k+)"
+                "rating_value": "4.8",
+                "rating_count": "(27)"
             }
         },
         {
-            "url": "https://www.zdnet.com/article/best-battery-life-laptop/",
-            "title": "Lenovo Yoga 9 (14)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(3).gXGikb.wTrwWd",
-            "price": "$1,449.99",
-            "provider": "BBest Buyand 10+ stores",
+            "title": "WeatherTech FloorLiner for Kia Sorento (441650-1-2-3) - Complete Set (1st,",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(5).gXGikb > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥81,900",
+            "provider": "YYahoo!ショッピング - フルールYahoo!店"
+        },
+        {
+            "title": "WeatherTech 445311?FloorLiner DigitalFit B00DQQ8PWK",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(6).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__37 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥17,800",
+            "provider": "YYahoo!ショッピング - オートプロズ Yahoo!店",
             "rating": {
-                "rating_value": "(4k+)"
+                "rating_value": "4.8",
+                "rating_count": "(58)"
             }
         },
         {
-            "url": "https://www.pcmag.com/picks/the-best-laptops",
-            "title": "Lenovo ThinkPad X1 Carbon Gen 9",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(4).gXGikb.wTrwWd",
-            "price": "$1,475.40",
-            "provider": "LLenovoand 10+ stores",
+            "title": "WeatherTechフロントフロアライナー カスタムフィット ブラック B000KL3AJW",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(7).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__38 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥65,833",
+            "provider": "Aamazon.co.jp",
             "rating": {
-                "rating_value": "(1k+)"
+                "rating_value": "4.6",
+                "rating_count": "(122)"
             }
         },
         {
-            "url": "https://www.pcmag.com/reviews/lenovo-ideapad-3-15-2021",
-            "title": "Lenovo IdeaPad 3 (15)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(5).gXGikb.wTrwWd",
-            "price": "$249.99",
-            "provider": "SStaplesand 10+ stores",
+            "title": "WeatherTech FloorLiner Custom Fit Floor Mats for TOYOTA トヨタ Tundra - 2nd R",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(8).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__39 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥29,500",
+            "provider": "YYahoo!ショッピング - TREND-STORE"
+        },
+        {
+            "title": "WeatherTech背面FloorLinerホンダシビックの選択モデル(ブラック)【安心丁寧対応】",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(9).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__40 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥46,912",
+            "provider": "Aamazon.co.jp",
             "rating": {
-                "rating_value": "(9k+)"
+                "rating_value": "4.5",
+                "rating_count": "(11)"
             }
         },
         {
-            "url": "https://www.ebaqdesign.com/blog/laptops-graphic-design",
-            "title": "Lenovo ThinkPad X1 Yoga Gen 6",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(6).gXGikb.wTrwWd",
-            "price": "$1,319.50",
-            "provider": "Llenovo.comand 10+ stores",
+            "title": "WeatherTech FloorLiner HP Custom Fit Floor Mats for NISSAN 日産 Murano - 1s",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(10).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__41 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥41,500",
+            "provider": "YYahoo!ショッピング - TREND-STORE"
+        },
+        {
+            "title": "WeatherTech背面FloorLiner for TOYOTA Siennaモデル(グレー) B007Q8H3UY",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(11).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__42 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥28,074",
+            "provider": "Aamazon.co.jp",
             "rating": {
-                "rating_value": "(658)"
+                "rating_value": "4.8",
+                "rating_count": "(8)"
             }
         },
         {
-            "url": "https://www.vmware-land.com/best-laptops-for-genshin-impact-all-you-need-to-know/",
-            "title": "Lenovo Legion 5 (15)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(7).gXGikb.wTrwWd",
-            "price": "$1,199.99",
-            "provider": "BBest Buyand 10+ stores",
+            "title": "WeatherTech 43442? Cargoライナー",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(12).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__43 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥35,272",
+            "provider": "Aamazon.co.jp"
+        },
+        {
+            "title": "WeatherTechカスタムフィットフロントFloorLiner",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(13).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__44 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥64,157",
+            "provider": "YYahoo!ショッピング - pole-pole"
+        },
+        {
+            "title": "WeatherTech背面FloorLinerホンダシビックの選択モデル (グレー)",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(14).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__45 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥53,210",
+            "provider": "YYahoo!ショッピング - ニュースプリングショップ"
+        },
+        {
+            "title": "WeatherTechカスタムフィットフロントFloorLiner for日産マキシマ (ブラック)",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(15).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__46 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥61,082",
+            "provider": "YYahoo!ショッピング - yodoriver"
+        },
+        {
+            "title": "WeatherTech FloorLiner HP Custom Fit Floor Mats for Volkswagen Tiguan",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(16).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__47 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥59,600",
+            "provider": "YYahoo!ショッピング - TREND-STORE"
+        },
+        {
+            "title": "WeatherTech (446071?) FloorLiner B00J9Y23SU",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(17).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__48 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥48,279",
+            "provider": "Aamazon.co.jp",
             "rating": {
-                "rating_value": "(3k+)"
+                "rating_value": "4.6",
+                "rating_count": "(224)"
             }
         },
         {
-            "url": "https://nanoreview.net/en/laptop-compare/lenovo-legion-5-pro-16-vs-lenovo-legion-5-2021-amd",
-            "title": "Lenovo Legion 5 Pro (16)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(8).gXGikb.wTrwWd",
-            "price": "$1,499.99",
-            "provider": "WWalmart - LENOVOand 10+ stores",
-            "rating": {
-                "rating_value": "(1k+)"
-            }
+            "title": "WeatherTech FloorLiner, Custom Fit Liner Floor Mats for Genesis GV80 (",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(18).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__49 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥73,200",
+            "provider": "YYahoo!ショッピング - TREND-STORE"
         },
         {
-            "url": "https://www.pcmag.com/picks/the-best-laptops-for-college-students",
-            "title": "Lenovo Chromebook Flex 5 (13)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(9).gXGikb.wTrwWd",
-            "price": "$419.00",
-            "provider": "BBest Buyand 10+ stores",
-            "rating": {
-                "rating_value": "(959)"
-            }
+            "title": "WeatherTechフロントFloorLiner選択のフォードモデル (ブラック)",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(19).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__50 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥38,000",
+            "provider": "YYahoo!ショッピング - dear flatz"
         },
         {
-            "url": "https://www.pcmag.com/picks/the-best-business-laptops",
-            "title": "Lenovo ThinkPad X1 Nano",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(10).gXGikb.wTrwWd",
-            "price": "$1,599.99",
-            "provider": "BBest Buyand 10+ stores",
-            "rating": {
-                "rating_value": "(334)"
-            }
+            "title": "WeatherTech FloorLiner ウェザーテック フロアーマット 1台分セット ランドクルーザープラド 150系 タン/ベージュ 防水マット",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(20).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__51 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥31,300",
+            "provider": "YYahoo!ショッピング - グッドオープンエアズ マイクス"
         },
         {
-            "url": "https://www.pcmag.com/picks/the-best-budget-laptops",
-            "title": "Lenovo IdeaPad 3 (14)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(11).gXGikb.wTrwWd",
-            "price": "$299.00",
-            "provider": "Wwalmart.comand 10+ stores",
-            "rating": {
-                "rating_value": "(6k+)"
-            }
+            "title": "WeatherTech番目と2番目の行FloorLiner (グレー)",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(21).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__52 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥95,595",
+            "provider": "YYahoo!ショッピング - pole-pole"
         },
         {
-            "url": "https://www.pcmag.com/picks/the-best-budget-laptops",
-            "title": "Lenovo IdeaPad Flex 5 (14)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(12).gXGikb.wTrwWd",
-            "price": "$447.99",
-            "provider": "LLenovoand 10+ stores",
-            "rating": {
-                "rating_value": "(1k+)"
-            }
+            "title": "WeatherTechカスタムフィット背面FloorLiner選択Chevrolet/Cadillac/GMCモデル (ブラック)",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(22).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__53 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥50,375",
+            "provider": "YYahoo!ショッピング - yodoriver"
         },
         {
-            "url": "https://www.notebookcheck.net/Lenovo-IdeaPad-5-15IIL05-Review-Good-performance-and-a-long-battery-life-thanks-to-the-70-Wh-battery.480460.0.html",
-            "title": "Lenovo IdeaPad 5 (15)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(13).gXGikb.wTrwWd",
-            "price": "$599.99",
-            "provider": "SStaplesand 10+ stores",
-            "rating": {
-                "rating_value": "(4k+)"
-            }
+            "title": "WeatherTech - 440668 - 2007 - 2011 Chevrolet Suburbanブラック3rd行FloorLiner",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(23).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__54 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥35,800",
+            "provider": "YYahoo!ショッピング - dear flatz"
         },
         {
-            "url": "https://www.pcmag.com/picks/the-best-ultraportable-laptops",
-            "title": "Lenovo IdeaPad Slim 7 (14)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(14).gXGikb.wTrwWd",
-            "price": "$699.99",
-            "provider": "SStaplesand 10+ stores",
-            "rating": {
-                "rating_value": "(106)"
-            }
+            "title": "WeatherTechカスタムフィットフロントFloorLiner for Lexus gx470 (ブラック)",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(24).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__55 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥81,900",
+            "provider": "YYahoo!ショッピング - ミルポート"
         },
         {
-            "url": "https://www.techadvisor.com/review/lenovo-yoga-slim-7-3799145/",
-            "title": "Lenovo Yoga Slim 7 (14)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(15).gXGikb.wTrwWd",
-            "price": "$1,531.99",
-            "provider": "Bbigamart.comand 1+ stores",
-            "rating": {
-                "rating_value": "(700)"
-            }
+            "title": "WeatherTech FloorLiner HP Custom Fit Floor Mats for Volkswagen Golf R",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(25).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__56 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥57,300",
+            "provider": "YYahoo!ショッピング - TREND-STORE"
         },
         {
-            "url": "https://www.laptopmag.com/reviews/lenovo-thinkpad-x12-detachable",
-            "title": "Lenovo ThinkPad X12 Detachable",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(16).gXGikb.wTrwWd",
-            "price": "$1,843.99",
-            "provider": "TTechinn.comand 5+ stores",
-            "rating": {
-                "rating_value": "(268)"
-            }
+            "title": "WeatherTechカスタムフィット背面FloorLinerフォードモデル選択用 (ブラック)",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(26).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__57 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥34,000",
+            "provider": "YYahoo!ショッピング - dear flatz"
         },
         {
-            "url": "https://www.ultrabookreview.com/42587-lenovo-legion-slim-7-ryzen-intel-h/",
-            "title": "Lenovo Legion Slim 7 (15)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(17).gXGikb.wTrwWd",
-            "price": "$1,099.99$1,500",
-            "provider": "BBest Buyand 5+ stores",
-            "rating": {
-                "rating_value": "(493)"
-            }
+            "title": "WeatherTech Custom Fit FloorLiner for NISSAN 日産 Rogue (441644-1-2) ,1st and",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(27).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__58 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥56,200",
+            "provider": "YYahoo!ショッピング - TREND-STORE"
         },
         {
-            "url": "https://mashable.com/roundup/best-chromebooks-for-kids",
-            "title": "Lenovo Chromebook S330",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(18).gXGikb.wTrwWd",
-            "price": "$180.91",
-            "provider": "Llenovo.comand 10+ stores",
-            "rating": {
-                "rating_value": "(1k+)"
-            }
+            "title": "WeatherTechカスタムフィット背面FloorLiner for Nissan Versa (ブラック)",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(28).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__59 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥54,995",
+            "provider": "YYahoo!ショッピング - pole-pole"
         },
         {
-            "url": "https://www.pcmag.com/picks/the-best-gaming-laptops",
-            "title": "Lenovo Legion 5 Gen 11",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(19).gXGikb.wTrwWd",
-            "price": "$1,199.00",
-            "provider": "BB&H Photo-Video-Audioand 10+ stores",
-            "rating": {
-                "rating_value": "(1k+)"
-            }
+            "title": "WeatherTech (464451?) FloorLiner、フロント、グレー",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(29).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__60 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥68,640",
+            "provider": "YYahoo!ショッピング - pole-pole"
         },
         {
-            "url": "https://www.notebookcheck.net/Review-Lenovo-ThinkPad-X240-Ultrabook.106883.0.html",
-            "title": "Lenovo ThinkPad X240",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(20).gXGikb.wTrwWd",
-            "price": "$339.95",
-            "provider": "NNotebookparts",
-            "rating": {
-                "rating_value": "(278)"
-            }
-        },
-        {
-            "url": "https://technicalustad.com/best-laptop-for-cricut-maker/",
-            "title": "Lenovo Thinkpad X1 Carbon Laptop Intel Core i7-3667U 2.0GHz 2C 8GB D",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(21).gXGikb.wTrwWd",
-            "price": "$1,803.24",
-            "provider": "CColamcoand 10+ stores",
-            "rating": {
-                "rating_value": "(2k+)"
-            }
-        },
-        {
-            "url": "https://www.pcmag.com/picks/the-best-business-laptops",
-            "title": "Lenovo ThinkPad P1 Gen 4",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(22).gXGikb.wTrwWd",
-            "price": "$4,159.00",
-            "provider": "LLenovoand 2+ stores",
-            "rating": {
-                "rating_value": "(313)"
-            }
-        },
-        {
-            "url": "https://www.pcmag.com/picks/the-best-cheap-gaming-laptops",
-            "title": "Lenovo Legion 5 Pro",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(23).gXGikb.wTrwWd",
-            "price": "$1,321.95",
-            "provider": "CColamcoand 5+ stores",
-            "rating": {
-                "rating_value": "(1k+)"
-            }
-        },
-        {
-            "url": "https://www.laptopmag.com/reviews/laptops/lenovo-yoga-3-pro-hybrid",
-            "title": "Lenovo Yoga 3 Pro",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(24).gXGikb.wTrwWd",
-            "price": "$1,396.95",
-            "provider": "NNewegg.com - Premium Wholesale",
-            "rating": {
-                "rating_value": "(136)"
-            }
-        },
-        {
-            "url": "https://www.cnet.com/reviews/lenovo-ideapad-yoga-13-review/",
-            "title": "Lenovo Ideapad Yoga (13)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(25).gXGikb.wTrwWd",
-            "price": "$1,206.25",
-            "provider": "AAztek Computers",
-            "rating": {
-                "rating_value": "(48)"
-            }
-        },
-        {
-            "url": "https://www.pcmag.com/picks/the-best-budget-laptops",
-            "title": "Lenovo IdeaPad 1 (14)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(26).gXGikb.wTrwWd",
-            "price": "$294.99",
-            "provider": "LLenovoand 10+ stores",
-            "rating": {
-                "rating_value": "(5k+)"
-            }
-        },
-        {
-            "url": "https://www.notebookcheck.net/Lenovo-ThinkPad-E15-Gen-2-Review-Tiger-Lake-laptop-with-an-Nvidia-GeForce-MX450.520540.0.html",
-            "title": "Lenovo ThinkPad E15 Gen 2",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(27).gXGikb.wTrwWd",
-            "price": "$764.99",
-            "provider": "BBest Buyand 10+ stores",
-            "rating": {
-                "rating_value": "(1k+)"
-            }
-        },
-        {
-            "url": "https://www.notebookcheck.net/Lenovo-Yoga-7-15ITL5-82BJ0031GE.520908.0.html",
-            "title": "Lenovo Yoga 7 (15)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(28).gXGikb.wTrwWd",
-            "price": "$849.99",
-            "provider": "BBest Buyand 10+ stores",
-            "rating": {
-                "rating_value": "(4k+)"
-            }
-        },
-        {
-            "url": "https://laptopmedia.com/review/lenovo-ideapad-3-17-2021/",
-            "title": "Lenovo IdeaPad 3 (17)",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(29).gXGikb.wTrwWd",
-            "price": "$359.00",
-            "provider": "BB&H Photo-Video-Audioand 10+ stores",
-            "rating": {
-                "rating_value": "(8k+)"
-            }
-        },
-        {
-            "url": "https://www.notebookcheck.net/Lenovo-ThinkPad-T15-Gen2-laptop-in-review-Business-combined-with-media-GPU-and-Tiger-Lake.537474.0.html",
-            "title": "Lenovo ThinkPad T15 Gen 2",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(30).gXGikb.wTrwWd",
-            "price": "$1,313.40",
-            "provider": "LLenovoand 10+ stores",
-            "rating": {
-                "rating_value": "(543)"
-            }
+            "title": "WeatherTechカスタムフィット背面FloorLiner forポンティアックg8? (ブラック)",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(1).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(30).gXGikb > div:nth-child(1)#lIm3Y7TgHtfa1sQPmcu0-Ao__61 > div:nth-child(1).liKJmf.wTrwWd",
+            "price": "￥54,521",
+            "provider": "YYahoo!ショッピング - yodoriver"
         }
     ]
 }
 ```
-
-* url 추가
