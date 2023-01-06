@@ -1,6 +1,10 @@
 # App results (new)
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/app\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/app\_results/sample.json)
+
+## Apps
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/app\_results/sample.html) 
+[JSON](https://ascentkorea-docs.github.io/mobile/features/app\_results/sample.json)
 
 ![](<../../.gitbook/assets/image (5).png>)
 
@@ -41,4 +45,37 @@
 }
 ```
 
-* url 추가
+## Carousels
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/app\_results/sample2.html) 
+[JSON](https://ascentkorea-docs.github.io/mobile/features/app\_results/sample2.json)
+
+![](<../../.gitbook/assets/app\_results\_carousels.png>)
+
+```
+{
+    "sequence": 2,
+    "type": "app_results",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1)#ow23 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst",
+    "carousels": [
+        {
+            "url": "https://play.google.com/store/apps/details?id=com.facebook.orca&hl=ko&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%ED%8E%98%EB%A9%94+%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C&pcampaignid=APPU_1_4NCzY_CAOoimqtsP2La-yAY",
+            "title": "Messenger",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1)#ow23 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst > div:nth-child(1).qs-ii > div:nth-child(4).NYqkHd > span#QPzTyf > g-card > div:nth-child(1).mnr-c > div:nth-child(1).NhAMn > ul.ZEz0bc > li:nth-child(2).pOWtie",
+            "rating": {
+                "rating_value": "4.1",
+                "rating_count": "(8598만)"
+            }
+        },
+        {
+            "url": "https://play.google.com/store/apps/details?id=com.facebook.mlite&hl=ko&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%ED%8E%98%EB%A9%94+%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C&pcampaignid=APPU_1_4NCzY_CAOoimqtsP2La-yAY",
+            "title": "Messenger Lite",
+            "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1)#ow23 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst > div:nth-child(1).qs-ii > div:nth-child(4).NYqkHd > span#QPzTyf > g-card > div:nth-child(1).mnr-c > div:nth-child(1).NhAMn > ul.ZEz0bc > li:nth-child(4).pOWtie",
+            "rating": {
+                "rating_value": "4.3",
+                "rating_count": "(551만)"
+            }
+        }
+    ]
+}
+```
