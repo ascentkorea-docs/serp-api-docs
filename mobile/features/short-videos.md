@@ -4,7 +4,7 @@
 [HTML](https://ascentkorea-docs.github.io/mobile/features/short\_videos/sample.html) 
 [JSON](https://ascentkorea-docs.github.io/mobile/features/short\_videos/sample.json)
 
-![](../../.gitbook/assets/short\_video.png)
+![](../../.gitbook/assets/short\_videos.png)
 
 ```
 {
