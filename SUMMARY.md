@@ -28,6 +28,7 @@
   * [Popular products (updated)](mobile/features/popular-products.md)
   * [People search next](mobile/features/people-search-next.md)
   * [Refined searches](mobile/features/refined-searches.md)
+  * [Related products (new feature)](mobile/features/related-products.md)
   * [Related searches](mobile/features/related-searches.md)
   * [Safe search](mobile/features/safe-search.md)
   * [Scholar (new)](mobile/features/scholar.md)
