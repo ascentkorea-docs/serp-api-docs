@@ -27,3 +27,33 @@
     "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(3)#topstuff > div:nth-child(3).mnr-c > div:nth-child(1).card-section"
 }
 ```
+
+## **Case 3**
+
+#### case 3-1
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/no\_results/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/no\_results/sample3.json)
+
+![](https://user-images.githubusercontent.com/111344654/216857392-e45f9562-f0a7-47f1-b4dd-ab47da86327e.png)
+
+```
+{
+    "sequence": 1,
+    "type": "no_results",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).Ww4FFb.vt6azd > div:nth-child(1).uzjuFc.BmP5tf"
+}
+```
+
+#### case 3-2
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/no\_results/sample4.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/no\_results/sample4.json)
+
+![](https://user-images.githubusercontent.com/111344654/216857411-b46478cd-9a56-4010-b774-31ac9b523316.png)
+
+```
+{
+    "sequence": 1
+    "type": "no_results"
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1).Ww4FFb.vt6azd > div:nth-child(1).uzjuFc.BmP5tf"
+}
+```
