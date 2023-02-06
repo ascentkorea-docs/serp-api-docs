@@ -20,7 +20,7 @@
   * [Job search](mobile/features/job-search.md)
   * [Knowledge panel](mobile/features/knowledge-panel-new.md)
   * [Local results](mobile/features/local-results.md)
-  * [No results](mobile/features/no-results.md)
+  * [No results (new)](mobile/features/no-results.md)
   * [Organic results](mobile/features/organic-results.md)
   * [Organic shorts](mobile/features/organic-shorts-new.md)
   * [People also ask for](mobile/features/people-also-ask-for.md)
