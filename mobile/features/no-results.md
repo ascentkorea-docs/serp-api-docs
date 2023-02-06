@@ -30,7 +30,7 @@
 
 ## **Case 3**
 
-### aren't_any
+#### case 3-1
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/no\_results/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/no\_results/sample3.json)
 
@@ -44,7 +44,7 @@
 }
 ```
 
-### aren't_many
+#### case 3-2
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/no\_results/sample4.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/no\_results/sample4.json)
 
