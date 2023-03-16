@@ -1,6 +1,5 @@
 ---
-description: '[신규] organic_results images 추가,
-[field 추가]: date(date 값을 100% 보장하지 않음 - GIT_ISSUE 참고)'
+description: '[field 추가]: date(date 값을 100% 보장하지 않음 - GIT_ISSUE 참고)'
 ---
 
 # Organic results
@@ -118,10 +117,6 @@ description: '[신규] organic_results images 추가,
     "title": "NFL Football - News, Scores, Stats, Standings, and Rumors - CBS Sports",
     "url": "https://www.cbssports.com/nfl/",
     "snippet": "CBS Sports has the latest NFL Football news, live scores, player stats, standings, fantasy games, and projections.",
-    "thumbnail": {
-        "type": "image",
-        "url": "https://www.cbssports.com/nfl/news/nfl-2022-schedule-release-one-mans-zany-format-for-leagues-newest-must-see-event-plus-some-real-questions/amp/"
-    },
     "carousels": [
         {
             "url": "https://www.cbssports.com/nfl/news/nfl-2022-schedule-release-one-mans-zany-format-for-leagues-newest-must-see-event-plus-some-real-questions/amp/",
