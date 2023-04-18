@@ -1,9 +1,8 @@
 ---
-description: '[field 추가]: date(date 값을 100% 보장하지 않음 - GIT_ISSUE 참고)'
+description: '[field 추가]: file_format'
 ---
 
 # Organic results
-[GIT_ISSUE](https://github.com/ascentkorea/mongttang_google_parser/issues/251)
 
 
 ## Common
@@ -11,6 +10,28 @@ description: '[field 추가]: date(date 값을 100% 보장하지 않음 - GIT_IS
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
 
 ![](../../.gitbook/assets/organic\_common.png)
+
+```
+{
+    "sequence": 13
+    "type": "organic_results"
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe"
+    "position": 8
+    "displayed_link": "https://m.kakaobank.com"
+    "title": "카카오뱅크"
+    "url": "https://m.kakaobank.com/"
+    "snippet": "카카오뱅크 이용안내, 상담하기, 소비자보호, 증명서발급, 회사소개, 인재채용, (주)카카오뱅크."
+}
+```
+
+## Date
+
+date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
+[GIT_ISSUE](https://github.com/ascentkorea/mongttang_google_parser/issues/251)
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.json)
+
+![](../../.gitbook/assets/organic\_date.png)
 
 ```
 {
@@ -23,6 +44,26 @@ description: '[field 추가]: date(date 값을 100% 보장하지 않음 - GIT_IS
     "title": "눈 몬스터의 침입 (고급) > 쥬니어네이버 - 존맛탱게임",
     "url": "https://jmtgame.com/bbs/board.php?bo_table=NaverGame&wr_id=152",
     "snippet": "2012. 4. 21. — GAME SUBJECT눈 몬스터의 침입 (고급) KEY FEATURES마우스 INSTRUCTION귀여운 몽키 그러니까 원숭이가 나오는 게임인데요, 마우스를 잘 활용을 하셔서 ..."
+}
+```
+
+## File format
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample10.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample10.json)
+
+![](../../.gitbook/assets/organic\_file_format.png)
+
+```
+{
+    "sequence": 2,
+    "type": "organic_results",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
+    "position": 2,
+    "displayed_link": "https://memory.library.kr › o...",
+    "title": "경기도사서협의회",
+    "url": "https://memory.library.kr/files/original/6cb7fa45b0a2ca4fd33ef19aecebfc6c.pdf",
+    "snippet": "이를 위해서 경기도 사서. 협의회는 공공도서관 발전을 위한 조사연구 및 연구물 간행, 회원 연수와 업무 교류, 단위 도서관. 의 모범 사례 발굴 보급을 비롯한 다양한 ...",
+    "file_format": "PDF"
 }
 ```
 
