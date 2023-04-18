@@ -1,4 +1,4 @@
-# App results (new)
+# App results
 
 
 ## Apps

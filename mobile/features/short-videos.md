@@ -1,4 +1,4 @@
-# Short videos (new)
+# Short videos
 
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/short\_videos/sample.html) 
