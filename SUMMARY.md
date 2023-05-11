@@ -22,7 +22,7 @@
   * [Local results](mobile/features/local-results.md)
   * [No results](mobile/features/no-results.md)
   * [Organic results](mobile/features/organic-results.md)
-  * [Organic shorts](mobile/features/organic-shorts-new.md)
+  * [Organic shorts (new)](mobile/features/organic-shorts-new.md)
   * [People also ask for](mobile/features/people-also-ask-for.md)
   * [People also search for](mobile/features/people-also-search-for.md)
   * [Popular products](mobile/features/popular-products.md)
