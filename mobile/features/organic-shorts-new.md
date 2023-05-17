@@ -78,16 +78,13 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ```
 {
-    "sequence": 5,
+    "sequence": 7,
     "type": "organic_shorts",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).Ww4FFb.vt6azd > div:nth-child(1).rULfzc",
     "displayed_link": "tiktok.comhttps://www.tiktok.com › discovertiktok.com",
     "title": "지금 우리 연구소는 국수단 체크팀｜TikTok 검색",
     "url": "https://www.tiktok.com/discover/%EC%A7%80%EA%B8%88-%EC%9A%B0%EB%A6%AC-%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94-%EA%B5%AD%EC%88%98%EB%8B%A8-%EC%B2%B4%ED%81%AC%ED%8C%80",
     "carousels": [
-        {
-            "url": "https://www.tiktok.com/@memelabbb/video/7194634960664333570",
-            "duration": "0:59"
-        },
         {
             "url": "https://www.tiktok.com/@chueonny9277/video/7162104971066903810",
             "duration": "0:59"
@@ -109,10 +106,15 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
             "duration": "1:09"
         },
         {
+            "url": "https://www.tiktok.com/@forgomroniv/video/7100488732238826779",
+            "duration": "0:34"
+        },
+        {
             "url": "https://www.tiktok.com/@osnews84/video/7182584864464473346",
             "duration": "2:49"
         }
     ],
+    "date": "2022. 11. 4.",
     "snippet": "2022. 11. 4. — TikTok (틱톡) 에서 지금 우리 연구소는 국수단 체크팀 관련 동영상을 찾아보세요."
 }
 ```
