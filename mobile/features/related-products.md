@@ -1,76 +1,119 @@
 # Related products
 
-## immersive
-[HTML](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample.html) [JOSN](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample.json)
+## Grid
+[HTML](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample3.html) [JOSN](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample3.json)
 
-![](https://user-images.githubusercontent.com/111344654/214444406-a9744bf1-0d0c-404b-a319-be7cc34e7605.png)
+![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/239d33da-07c2-40d4-a086-2f0d0aea3ff5)
 
 
 ```
 {
-    "sequence": 19,
+    "sequence": 12,
     "type": "related_products",
     "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk",
     "title": "Related products",
     "refinements": [
         {
-            "text": "Android",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(2).xdPGbf > g-scrolling-carousel.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).JLwajb.I2HuKc > div:nth-child(1).UinXve.MwdqEf.k0Jjg.A29zgf.LwdV0e.zqrO0.rlt7Ub"
+            "text": "Android"
         },
         {
-            "text": "Samsung Galaxy S21",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(2).xdPGbf > g-scrolling-carousel.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).JLwajb.I2HuKc > div:nth-child(2).UinXve.MwdqEf.k0Jjg.A29zgf.LwdV0e.zqrO0.rlt7Ub"
+            "text": "Compact"
         },
         {
-            "text": "Samsung",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(2).xdPGbf > g-scrolling-carousel.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).JLwajb.I2HuKc > div:nth-child(3).UinXve.MwdqEf.k0Jjg.A29zgf.LwdV0e.zqrO0.rlt7Ub"
+            "text": "Samsung Galaxy S series"
         },
         {
-            "text": "Other",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(2).xdPGbf > g-scrolling-carousel.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).JLwajb.I2HuKc > div:nth-child(4).UinXve.MwdqEf.k0Jjg.A29zgf.LwdV0e.zqrO0.rlt7Ub"
+            "text": "Samsung"
         }
     ],
     "items": [
         {
-            "title": "Pixel 6a",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1).qaQgY > ul.lvS33d.nodrpc > li:nth-child(1).I8iMf",
-            "price": "$320+",
+            "title": "Samsung Galaxy S22 Ultra",
             "rating": {
-                "rating_value": "4.2",
-                "rating_count": "(1.9K)"
+                "rating_value": "4.5",
+                "rating_count": "(38K)"
             }
         },
         {
             "title": "Samsung Galaxy S22+",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1).qaQgY > ul.lvS33d.nodrpc > li:nth-child(2).I8iMf",
-            "price": "$790+",
+            "price": "$740+",
             "rating": {
-                "rating_value": "4.5",
-                "rating_count": "(53K)"
+                "rating_value": "4.4",
+                "rating_count": "(20K)"
             }
         },
         {
-            "title": "Samsung Galaxy S22 Ultra",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1).qaQgY > ul.lvS33d.nodrpc > li:nth-child(3).I8iMf",
+            "title": "Samsung Galaxy A53 5G",
+            "price": "$120+",
             "rating": {
-                "rating_value": "4.5",
-                "rating_count": "(39K)"
+                "rating_value": "4.4",
+                "rating_count": "(24K)"
             }
         },
         {
-            "title": "Samsung Galaxy S21 Ultra 5G",
-            "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).MjjYud > block-component > div:nth-child(1).g.kno-result.JnwWd.g-blk > div:nth-child(1).dG2XIf.XzTjhb.zifkQc.Wnoohf.OJXvsb > div:nth-child(1) > div:nth-child(1).I0ZP4b > div:nth-child(1).xpdopen > div:nth-child(1).ifM9O > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.XbtRGb.qxsd.EfDVh.rKR6H.wDYxhc.NFQFxe.viOShc > div:nth-child(1).yGNX1 > div:nth-child(1).J8Ur2b > div:nth-child(1).UQC6fc > div:nth-child(3) > div:nth-child(1).sgKDNe.ncGZhe > div:nth-child(1) > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1).qaQgY > ul.lvS33d.nodrpc > li:nth-child(4).I8iMf",
-            "price": "$290+",
+            "title": "Samsung Galaxy S23 Ultra",
+            "price": "$1,000+",
+            "rating": {
+                "rating_value": "4.8",
+                "rating_count": "(23K)"
+            }
+        },
+        {
+            "title": "Samsung Galaxy Z Flip 4",
+            "rating": {
+                "rating_value": "4.4",
+                "rating_count": "(9.7K)"
+            },
+            "hidden": true
+        },
+        {
+            "title": "Samsung Galaxy S23",
+            "price": "$740+",
+            "rating": {
+                "rating_value": "4.6",
+                "rating_count": "(6.1K)"
+            },
+            "hidden": true
+        },
+        {
+            "title": "Samsung Galaxy Z Fold 4",
+            "price": "$1,200+",
             "rating": {
                 "rating_value": "4.5",
-                "rating_count": "(37K)"
-            }
+                "rating_count": "(6.7K)"
+            },
+            "hidden": true
+        },
+        {
+            "title": "Google Pixel 7 Pro",
+            "rating": {
+                "rating_value": "4.3",
+                "rating_count": "(3.4K)"
+            },
+            "hidden": true
+        },
+        {
+            "title": "Google Pixel 7",
+            "price": "$440+",
+            "rating": {
+                "rating_value": "4.3",
+                "rating_count": "(3.1K)"
+            },
+            "hidden": true
+        },
+        {
+            "title": "Pixel 6a",
+            "rating": {
+                "rating_value": "4.2",
+                "rating_count": "(3.2K)"
+            },
+            "hidden": true
         }
     ]
 }
 ```
 
-## carousels
+## Carousels
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample2.html) [JOSN](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample2.json)
 
