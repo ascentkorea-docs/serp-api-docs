@@ -71,7 +71,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 #### Image
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.json)
 
 ![](../../.gitbook/assets/organic\_thumbnail\_image.png)
 
@@ -96,7 +96,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 #### Video
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.json)
 
 ![](../../.gitbook/assets/organic\_thumbnail\_video.png)
 
