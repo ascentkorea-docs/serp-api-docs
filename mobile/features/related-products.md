@@ -1,7 +1,7 @@
 # Related products
 
 ## Grid
-[HTML](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample3.html) [JOSN](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample3.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample3.json)
 
 ![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/239d33da-07c2-40d4-a086-2f0d0aea3ff5)
 
@@ -115,7 +115,7 @@
 
 ## Carousels
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample2.html) [JOSN](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample2.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/related\_products/sample2.json)
 
 ![](https://user-images.githubusercontent.com/111344654/214445494-1760a6b7-f93e-4155-822d-33e5949226a3.png)
 
