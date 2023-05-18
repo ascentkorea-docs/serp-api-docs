@@ -2,7 +2,7 @@
 
 ## Grid
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample.html)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample.json)
 
 ![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/0b1d55a6-5090-49f3-9102-ba8bcef19244)
 
@@ -65,7 +65,7 @@
 
 ## Carousels
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample2.html)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample2.json)
 
 ![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/5d62f708-cdaf-41f3-b5bb-bd9703a7bc03)
 
