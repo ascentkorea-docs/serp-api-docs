@@ -1,4 +1,4 @@
-# Images (updated)
+# Images
 
 ## Images
 
@@ -96,7 +96,7 @@
 ```
 
 
-# Grid
+## Grid
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/images/sample4.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/images/sample4.json)
 
