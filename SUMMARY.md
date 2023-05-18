@@ -26,7 +26,6 @@
   * [Organic shorts (new)](mobile/features/organic-shorts-new.md)
   * [People also ask for](mobile/features/people-also-ask-for.md)
   * [People also search for](mobile/features/people-also-search-for.md)
-  * [Popular products](mobile/features/popular-products.md)
   * [People search next](mobile/features/people-search-next.md)
   * [Refined searches](mobile/features/refined-searches.md)
   * [Related products (updated)](mobile/features/related-products.md)
