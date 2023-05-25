@@ -1,5 +1,5 @@
 <!-- ---
-description: '[field 추가]: file_format'
+description: '[field 추가]: video, missing_words'
 --- -->
 
 # Organic results
@@ -406,6 +406,52 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
         {
             "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
         }
+    ]
+}
+```
+
+## video
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample11.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample11.json)
+
+![](../../.gitbook/assets/organic\_video.png)
+
+```
+{
+    "sequence": 8,
+    "type": "organic_results",
+    "position": 5,
+    "displayed_link": "https://www.youtube.com · zollotech",
+    "title": "iPhone 15, 15 Pro - Hands On First Look - YouTube",
+    "url": "https://www.youtube.com/watch?v=93OLveum9Qg",
+    "video": {
+        "url": "#fpstate=ive&vld=cid:a22ab6c8,vid:93OLveum9Qg",
+        "date": "16 hours ago"
+    }
+}
+```
+
+## missing_words
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample12.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample12.json)
+
+![](../../.gitbook/assets/organic\_missing\_words.png)
+
+```
+{
+    "sequence": 7,
+    "type": "organic_results",
+    "position": 7,
+    "displayed_link": "https://m.youtube.com › watch",
+    "title": "[몬헌 라이즈 : 선브레이크] 몬스터 사냥으로는 획득불가! 마스터 랭크 특수 ...",
+    "url": "https://m.youtube.com/watch?v=SabQb93fzck",
+    "thumbnail": {
+        "type": "direct_video",
+        "url": "#fpstate=ive&vld=cid:2d774333,vid:SabQb93fzck",
+        "date": "2022. 7. 29."
+    },
+    "missing_words": [
+        "얽"
     ]
 }
 ```
