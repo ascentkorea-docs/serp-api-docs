@@ -439,17 +439,13 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ```
 {
-    "sequence": 7,
+    "sequence": 10,
     "type": "organic_results",
-    "position": 7,
-    "displayed_link": "https://m.youtube.com › watch",
-    "title": "[몬헌 라이즈 : 선브레이크] 몬스터 사냥으로는 획득불가! 마스터 랭크 특수 ...",
-    "url": "https://m.youtube.com/watch?v=SabQb93fzck",
-    "thumbnail": {
-        "type": "direct_video",
-        "url": "#fpstate=ive&vld=cid:2d774333,vid:SabQb93fzck",
-        "date": "2022. 7. 29."
-    },
+    "position": 9,
+    "displayed_link": "https://store.nintendo.co.kr › ...",
+    "title": "【코스튬】아이루 모자 - 닌텐도 온라인 스토어",
+    "url": "https://store.nintendo.co.kr/70050000025920",
+    "snippet": "『몬스터헌터』 시리즈로부터 아이루 모자가 등장! 시리즈에서도 익숙한 헌터의 듬직한 동반자 「아이루」가 분위기를 띄운다냥! 둥글고 귀엽고 사랑스러운 아이루가 ...",
     "missing_words": [
         "얽"
     ]
