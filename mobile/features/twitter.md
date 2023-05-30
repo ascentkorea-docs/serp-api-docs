@@ -1,4 +1,4 @@
-# Twitter
+# Twitter (new)
 
 ### Single channel
 
@@ -169,24 +169,5 @@
             "date": "Twitter · 3 hours ago"
         }
     ]
-}
-```
-
-
-### Single post
-
-[HTML](https://ascentkorea-docs.github.io/mobile/features/twitter/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/twitter/sample3.json)
-
-![](https://user-images.githubusercontent.com/111344654/233237490-686ff774-70d5-495e-87f8-8a522130d28e.png)
-
-```
-{
-    "sequence": 1,
-    "type": "twitter",
-    "displayed_link": "Twitter › SponichiB",
-    "channel_name": "スポニチ バスケ担当",
-    "url": "https://twitter.com/SponichiB?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-    "desc": "【#Bリーグ】\n\n#千葉ジェッツ が東地区連覇🏆\n前人未到の３冠へあと１つ ",
-    "date": "3 日前"
 }
 ```
