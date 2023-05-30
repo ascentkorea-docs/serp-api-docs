@@ -13,6 +13,7 @@
   * [Broaden searches](mobile/features/broaden-searches.md)
   * [Discover more places](mobile/features/discover-more-places.md)
   * [Featured snippet](mobile/features/featured-snippet.md)
+  * [Filters and topics (new)](mobile/features/filters-and-topics.md)
   * [Google play](mobile/features/google-play.md)
   * [Graph](mobile/features/graph.md)
   * [Images](mobile/features/images.md)
