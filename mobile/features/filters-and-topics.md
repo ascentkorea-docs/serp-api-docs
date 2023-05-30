@@ -10,6 +10,7 @@
 {
     "sequence": 1,
     "type": "filters_and_topics",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(4)#appbar.appbar > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)#bqHHPb.bqHHPb",
     "refinements": [
         {
             "type": "filter",
@@ -30,13 +31,13 @@
             "query": "LG 냉장고 추천"
         },
         {
+            "type": "filter",
+            "text": "쇼핑"
+        },
+        {
             "type": "topic",
             "text": "1 인",
             "query": "1인 냉장고 추천"
-        },
-        {
-            "type": "filter",
-            "text": "쇼핑"
         },
         {
             "type": "topic",
@@ -55,13 +56,13 @@
         },
         {
             "type": "topic",
-            "text": "소형",
-            "query": "소형 냉장고 추천"
+            "text": "삼성",
+            "query": "삼성 냉장고 추천"
         },
         {
             "type": "topic",
-            "text": "삼성",
-            "query": "삼성 냉장고 추천"
+            "text": "소형",
+            "query": "소형 냉장고 추천"
         },
         {
             "type": "topic",
@@ -72,26 +73,6 @@
             "type": "topic",
             "text": "디시",
             "query": "냉장고 추천 디시"
-        },
-        {
-            "type": "filter",
-            "text": "뉴스"
-        },
-        {
-            "type": "filter",
-            "text": "지도"
-        },
-        {
-            "type": "filter",
-            "text": "도서"
-        },
-        {
-            "type": "filter",
-            "text": "항공편"
-        },
-        {
-            "type": "filter",
-            "text": "금융"
         }
     ]
 }
