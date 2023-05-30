@@ -1,4 +1,6 @@
-# Images (updated)
+# Images
+
+## Images
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/images/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/images/sample3.json)
 
@@ -90,5 +92,44 @@
             "landing_url": "https://www.picketandrail.com/collections/all-americana-tv-cabinets-consoles"
         }
     ]
+}
+```
+
+
+## Grid
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/images/sample4.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/images/sample4.json)
+
+![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/4d6ed1dc-fd43-4ac7-8883-8e0d2d9a6c37)
+
+```
+{
+    "sequence": 5,
+    "type": "images",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1) > div:nth-child(2).Lv2Cle.Ww4FFb.vt6azd",
+    "grid": {
+        "items": [
+            [
+                {
+                    "source": "창원시장애인종합복지관",
+                    "landing_url": "http://www.cwrehab.or.kr/bbs/board.php?bo_table=board_customer1&wr_id=1100"
+                },
+                {
+                    "source": "망원청소년문화센터",
+                    "landing_url": "http://www.mwyouth.org/board_zRSB63/14510"
+                }
+            ],
+            [
+                {
+                    "source": "SW중심대학",
+                    "landing_url": "https://www.swuniv.kr/notice/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Njt9&bmode=view&idx=4718602&t=board"
+                },
+                {
+                    "source": "네이버 블로그",
+                    "landing_url": "https://m.blog.naver.com/siheungblog/222824388730"
+                }
+            ]
+        ]
+    }
 }
 ```

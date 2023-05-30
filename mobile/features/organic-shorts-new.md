@@ -1,4 +1,8 @@
-# Organic shorts (new)
+# Organic shorts
+
+
+
+## Common
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_shorts/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_shorts/sample.json)
 
@@ -63,4 +67,54 @@
 }
 ```
 
-* url 추가
+## Date
+
+date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
+[GIT_ISSUE](https://github.com/ascentkorea/mongttang_google_parser/issues/251)
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_shorts/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_shorts/sample2.json)
+
+![](../../.gitbook/assets/organic\_shorts.png)
+
+```
+{
+    "sequence": 7,
+    "type": "organic_shorts",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).Ww4FFb.vt6azd > div:nth-child(1).rULfzc",
+    "displayed_link": "tiktok.comhttps://www.tiktok.com › discovertiktok.com",
+    "title": "지금 우리 연구소는 국수단 체크팀｜TikTok 검색",
+    "url": "https://www.tiktok.com/discover/%EC%A7%80%EA%B8%88-%EC%9A%B0%EB%A6%AC-%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94-%EA%B5%AD%EC%88%98%EB%8B%A8-%EC%B2%B4%ED%81%AC%ED%8C%80",
+    "carousels": [
+        {
+            "url": "https://www.tiktok.com/@chueonny9277/video/7162104971066903810",
+            "duration": "0:59"
+        },
+        {
+            "url": "https://www.tiktok.com/@user5365493961790/video/7209107633402400002",
+            "duration": "3:00"
+        },
+        {
+            "url": "https://www.tiktok.com/@chueonny9277/video/7185872181820132610",
+            "duration": "0:59"
+        },
+        {
+            "url": "https://www.tiktok.com/@ginl_.6x2/video/7061143941692804354",
+            "duration": "0:37"
+        },
+        {
+            "url": "https://www.tiktok.com/@hi_p_hop_xd/video/7121602427748437249",
+            "duration": "1:09"
+        },
+        {
+            "url": "https://www.tiktok.com/@forgomroniv/video/7100488732238826779",
+            "duration": "0:34"
+        },
+        {
+            "url": "https://www.tiktok.com/@osnews84/video/7182584864464473346",
+            "duration": "2:49"
+        }
+    ],
+    "date": "2022. 11. 4.",
+    "snippet": "2022. 11. 4. — TikTok (틱톡) 에서 지금 우리 연구소는 국수단 체크팀 관련 동영상을 찾아보세요."
+}
+```

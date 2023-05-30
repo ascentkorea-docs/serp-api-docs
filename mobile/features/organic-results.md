@@ -1,6 +1,6 @@
----
-description: '[field 추가]: file_format'
----
+<!-- ---
+description: '[field 추가]: video, missing_words'
+--- -->
 
 # Organic results
 
@@ -71,7 +71,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 #### Image
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.json)
 
 ![](../../.gitbook/assets/organic\_thumbnail\_image.png)
 
@@ -96,7 +96,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 #### Video
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.json)
 
 ![](../../.gitbook/assets/organic\_thumbnail\_video.png)
 
@@ -406,6 +406,48 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
         {
             "landing_url": "https://m.blog.naver.com/king-hong/221291311598"
         }
+    ]
+}
+```
+
+## video
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample11.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample11.json)
+
+![](../../.gitbook/assets/organic\_video.png)
+
+```
+{
+    "sequence": 8,
+    "type": "organic_results",
+    "position": 5,
+    "displayed_link": "https://www.youtube.com · zollotech",
+    "title": "iPhone 15, 15 Pro - Hands On First Look - YouTube",
+    "url": "https://www.youtube.com/watch?v=93OLveum9Qg",
+    "video": {
+        "url": "#fpstate=ive&vld=cid:a22ab6c8,vid:93OLveum9Qg",
+        "date": "16 hours ago"
+    }
+}
+```
+
+## missing_words
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample12.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample12.json)
+
+![](../../.gitbook/assets/organic\_missing\_words.png)
+
+```
+{
+    "sequence": 10,
+    "type": "organic_results",
+    "position": 9,
+    "displayed_link": "https://store.nintendo.co.kr › ...",
+    "title": "【코스튬】아이루 모자 - 닌텐도 온라인 스토어",
+    "url": "https://store.nintendo.co.kr/70050000025920",
+    "snippet": "『몬스터헌터』 시리즈로부터 아이루 모자가 등장! 시리즈에서도 익숙한 헌터의 듬직한 동반자 「아이루」가 분위기를 띄운다냥! 둥글고 귀엽고 사랑스러운 아이루가 ...",
+    "missing_words": [
+        "얽"
     ]
 }
 ```
