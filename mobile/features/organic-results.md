@@ -1,6 +1,6 @@
-<!-- ---
-description: '[field 추가]: video, missing_words'
---- -->
+---
+description: 'field 추가: site_name'
+---
 
 # Organic results
 
@@ -13,13 +13,13 @@ description: '[field 추가]: video, missing_words'
 
 ```
 {
-    "sequence": 13
-    "type": "organic_results"
-    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe"
-    "position": 8
-    "displayed_link": "https://m.kakaobank.com"
-    "title": "카카오뱅크"
-    "url": "https://m.kakaobank.com/"
+    "sequence": 13,
+    "type": "organic_results",
+    "position": 10,
+    "site_name": "kakaobank.com",
+    "displayed_link": "https://m.kakaobank.com",
+    "title": "카카오뱅크",
+    "url": "https://m.kakaobank.com/",
     "snippet": "카카오뱅크 이용안내, 상담하기, 소비자보호, 증명서발급, 회사소개, 인재채용, (주)카카오뱅크."
 }
 ```
@@ -37,8 +37,8 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 {
     "sequence": 3,
     "type": "organic_results",
-    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
     "position": 3,
+    "site_name": "jmtgame.com",
     "displayed_link": "https://jmtgame.com › bbs › board",
     "date": "2012. 4. 21.",
     "title": "눈 몬스터의 침입 (고급) > 쥬니어네이버 - 존맛탱게임",
@@ -57,8 +57,8 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 {
     "sequence": 2,
     "type": "organic_results",
-    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
     "position": 2,
+    "site_name": "memory.library.kr",
     "displayed_link": "https://memory.library.kr › o...",
     "title": "경기도사서협의회",
     "url": "https://memory.library.kr/files/original/6cb7fa45b0a2ca4fd33ef19aecebfc6c.pdf",
@@ -79,8 +79,8 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 {
     "sequence": 2,
     "type": "organic_results",
-    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).MjjYud > div:nth-child(4) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
     "position": 2,
+    "site_name": "flashgamemall.tistory.com",
     "displayed_link": "https://flashgamemall.tistory.com › ...",
     "date": "2021. 2. 24.",
     "title": "눈몬스터의 침입 (뭉게뭉게 왕국을 지켜라) - 플래시게임몰",
@@ -104,8 +104,8 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 {
     "sequence": 5,
     "type": "organic_results",
-    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(5) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
     "position": 5,
+    "site_name": "gamegogo.co.kr",
     "displayed_link": "https://gamegogo.co.kr › bbs › board",
     "date": "2021. 3. 21.",
     "title": "눈 몬스터의 침입 (고급) > 추억_쥬니어네이버게임 모음 | 게임고고 [플래시게임 아카이브]",
@@ -127,18 +127,17 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ```
 {
-   "sequence": 14
-   "type": "organic_results"
-   "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.PHap3c.NfHzb"
-   "position": 11
-   "displayed_link": "https://m.timesofindia.com › tamil"
-   "title": "Best Children Tamil Nursery Song 'Kokkupaaru' - Kids Nursery Songs In Tamil | Entertainment - Times of India Videos"
-   "url": "https://m.timesofindia.com/videos/entertainment/kids/tamil/best-children-tamil-nursery-song-kokkupaaru-kids-nursery-songs-in-tamil/videoshow/71370233.cms"
-   "thumbnail": {
-    "type": "direct_video"
-    "url": "https://m.timesofindia.com/videos/entertainment/kids/tamil/best-children-tamil-nursery-song-kokkupaaru-kids-nursery-songs-in-tamil/videoshow/71370233.cms"
-    "date": "2019. 9. 30."
-   }
+    "sequence": 14,
+    "type": "organic_results",
+    "position": 14,
+    "displayed_link": "https://m.timesofindia.com › tamil",
+    "title": "Best Children Tamil Nursery Song 'Kokkupaaru' - Kids Nursery Songs In Tamil | Entertainment - Times of India Videos",
+    "url": "https://m.timesofindia.com/videos/entertainment/kids/tamil/best-children-tamil-nursery-song-kokkupaaru-kids-nursery-songs-in-tamil/videoshow/71370233.cms",
+    "thumbnail": {
+        "type": "direct_video",
+        "url": "https://m.timesofindia.com/videos/entertainment/kids/tamil/best-children-tamil-nursery-song-kokkupaaru-kids-nursery-songs-in-tamil/videoshow/71370233.cms",
+        "date": "2019. 9. 30."
+    }
 }
 ```
 
@@ -152,7 +151,6 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 {
     "sequence": 9,
     "type": "organic_results",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_Jlp8Yrr0FMqFoAS48aLQDQ11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(29).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
     "position": 3,
     "displayed_link": "https://www.cbssports.com › nfl",
     "title": "NFL Football - News, Scores, Stats, Standings, and Rumors - CBS Sports",
@@ -302,8 +300,8 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 {
     "sequence": 13,
     "type": "organic_results",
-    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe",
-    "position": 11,
+    "position": 12,
+    "site_name": "korean.alibaba.com",
     "displayed_link": "https://korean.alibaba.com › Blue-to...",
     "title": "파란 이 숫자 키보드 Protable 키패드 쪼개는 도구 안드로이드 전화 아이패드 맥북 Windows를 위한 알루미늄 합금 덮개",
     "url": "https://korean.alibaba.com/product-detail/Blue-tooth-Numeric-Keyboard-Protable-Keypad-60591227877.html",
@@ -332,44 +330,37 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ```
 {
-   "sequence": 1
-   "type": "organic_results"
-   "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe"
-   "position": 1
-   "displayed_link": "https://www.in.or.kr"
-   "title": "보험연수원"
-   "url": "https://www.in.or.kr/"
-   "snippet": "4차산업기술 BIG5! 수강료: 129,360원; 교육기간: 1개월/21시간; 교육형태: 사이버."
-   "refinements": [
-    {
-     "text": "모집종사자"
-     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
-    },
-    {
-     "text": "회원 로그인"
-     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
-    },
-    {
-     "text": "자격시험"
-     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
-    },
-    {
-     "text": "보험심사역"
-     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
-    },
-    {
-     "text": "주요사업"
-     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
-    },
-    {
-     "text": "사이버교육"
-     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
-    },
-    {
-     "text": "보험연수원"
-     "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.vt6azd.xpd.EtOod.pkphOe > div:nth-child(1).kvH3mc.BToiNc.UK95Uc > div:nth-child(3).Z26q7c.UK95Uc > div:nth-child(1).RXaYnd > div:nth-child(1).Gcxb4e > div:nth-child(1).HTOhZ > div:nth-child(1).EDblX.JpOecb > a.GqbEwc.unhzXb > div:nth-child(1).QRcbWb"
-   }
-  ]
+    "sequence": 1,
+    "type": "organic_results",
+    "position": 1,
+    "site_name": "in.or.kr",
+    "displayed_link": "https://www.in.or.kr",
+    "title": "보험연수원",
+    "url": "https://www.in.or.kr/",
+    "snippet": "4차산업기술 BIG5! 수강료: 129,360원; 교육기간: 1개월/21시간; 교육형태: 사이버.",
+    "refinements": [
+        {
+            "text": "모집종사자"
+        },
+        {
+            "text": "회원 로그인"
+        },
+        {
+            "text": "자격시험"
+        },
+        {
+            "text": "보험심사역"
+        },
+        {
+            "text": "주요사업"
+        },
+        {
+            "text": "사이버교육"
+        },
+        {
+            "text": "보험연수원"
+        }
+    ]
 }
 ```
 
@@ -418,9 +409,10 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ```
 {
-    "sequence": 8,
+    "sequence": 11,
     "type": "organic_results",
     "position": 5,
+    "site_name": "YouTube",
     "displayed_link": "https://www.youtube.com · zollotech",
     "title": "iPhone 15, 15 Pro - Hands On First Look - YouTube",
     "url": "https://www.youtube.com/watch?v=93OLveum9Qg",
@@ -439,9 +431,10 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ```
 {
-    "sequence": 10,
+    "sequence": 11,
     "type": "organic_results",
     "position": 9,
+    "site_name": "store.nintendo.co.kr",
     "displayed_link": "https://store.nintendo.co.kr › ...",
     "title": "【코스튬】아이루 모자 - 닌텐도 온라인 스토어",
     "url": "https://store.nintendo.co.kr/70050000025920",
