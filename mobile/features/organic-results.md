@@ -121,22 +121,23 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 #### Direct video
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample6.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample6.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample9.json)
 
-![](../../.gitbook/assets/organic\_thumbnail\_direct\_videopng2.png)
+![](../../.gitbook/assets/organic\_thumbnail\_direct\_video.png)
 
 ```
 {
-    "sequence": 14,
+    "sequence": 18,
     "type": "organic_results",
-    "position": 14,
-    "displayed_link": "https://m.timesofindia.com › tamil",
-    "title": "Best Children Tamil Nursery Song 'Kokkupaaru' - Kids Nursery Songs In Tamil | Entertainment - Times of India Videos",
-    "url": "https://m.timesofindia.com/videos/entertainment/kids/tamil/best-children-tamil-nursery-song-kokkupaaru-kids-nursery-songs-in-tamil/videoshow/71370233.cms",
+    "position": 16,
+    "site_name": "youtube.com",
+    "displayed_link": "https://m.youtube.com › watch",
+    "title": "돼범이, 무단 주거 침입은 끝! 드디어 생긴 가족 I TV동물농장 (Animal Farm) | SBS Story",
+    "url": "https://m.youtube.com/watch?v=9KADe6aVJsU",
     "thumbnail": {
         "type": "direct_video",
-        "url": "https://m.timesofindia.com/videos/entertainment/kids/tamil/best-children-tamil-nursery-song-kokkupaaru-kids-nursery-songs-in-tamil/videoshow/71370233.cms",
-        "date": "2019. 9. 30."
+        "url": "#fpstate=ive&vld=cid:63c1842e,vid:9KADe6aVJsU",
+        "date": "2021. 5. 30."
     }
 }
 ```
@@ -149,63 +150,26 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ```
 {
-    "sequence": 9,
+    "sequence": 16,
     "type": "organic_results",
-    "position": 3,
-    "displayed_link": "https://www.cbssports.com › nfl",
-    "title": "NFL Football - News, Scores, Stats, Standings, and Rumors - CBS Sports",
-    "url": "https://www.cbssports.com/nfl/",
-    "snippet": "CBS Sports has the latest NFL Football news, live scores, player stats, standings, fantasy games, and projections.",
+    "position": 13,
+    "site_name": "picturethisai.com",
+    "displayed_link": "https://www.picturethisai.com › care",
+    "title": "은행나무 일상보호(키우기, 가지치기, 파종) - PictureThis",
+    "url": "https://www.picturethisai.com/ko/care/Ginkgo_biloba.html",
+    "snippet": "30년 이상은 자라야 열매를 맺기 때문에 어린 묘목의 암수를 알 수 없었는데, 현재는 유전자 분석으로 감별할 수 있게 되었다. symbolism. 꽃의 상징. 튼튼하고 부드럽게.",
     "carousels": [
         {
-            "url": "https://www.cbssports.com/nfl/news/nfl-2022-schedule-release-one-mans-zany-format-for-leagues-newest-must-see-event-plus-some-real-questions/amp/",
-            "title": "NFL 2022 schedule release: One man's zany format for league's newest \nmust-see event, plus some real questions",
-            "date": "4 hours ago"
+            "url": "https://picturethisai.com/ko/care/Ginkgo_biloba.html#Cultivation:WaterDetail",
+            "title": "1. 물을주는 것"
         },
         {
-            "url": "https://www.cbssports.com/nfl/news/howie-roseman-addresses-eagles-needs-in-secondary-after-nfl-draft-we-just-have-to-keep-working/amp/",
-            "title": "Howie Roseman addresses Eagles' needs in secondary after NFL Draft: 'We \njust have to keep working'",
-            "date": "6 hours ago"
+            "url": "https://picturethisai.com/ko/care/Ginkgo_biloba.html#Cultivation:FertilizerDetail",
+            "title": "2. 시비"
         },
         {
-            "url": "https://www.cbssports.com/nfl/news/agents-take-determining-a-fair-deal-for-rams-cooper-kupp-in-an-exploding-receivers-market/",
-            "title": "Agent's Take: Determining a fair deal for Rams' Cooper Kupp in an exploding \nreceivers market",
-            "date": "7 hours ago"
-        },
-        {
-            "url": "https://www.cbssports.com/nfl/news/steelers-mike-tomlin-leads-active-nfl-head-coaches-in-significant-category-including-bill-belichick/amp/",
-            "title": "Steelers' Mike Tomlin leads active NFL head coaches in significant \ncategory, including Bill Belichick",
-            "date": "7 hours ago"
-        },
-        {
-            "url": "https://www.cbssports.com/nfl/news/2022-nfl-schedule-release-broncos-opponents-previews-full-list-of-teams-on-regular-season-schedule/amp/",
-            "title": "2022 NFL schedule release: Broncos opponents, previews, full list of teams \non regular-season schedule",
-            "date": "8 hours ago"
-        },
-        {
-            "url": "https://www.cbssports.com/nfl/news/veterans-who-could-be-facing-chopping-block-plus-nfl-schedule-leaks-and-2023-top-offensive-prospects/amp/",
-            "title": "Veterans who could be facing chopping block, plus NFL schedule leaks and \n2023 top offensive prospects",
-            "date": "8 hours ago"
-        },
-        {
-            "url": "https://www.cbssports.com/nfl/news/2022-nfl-draft-chris-carson-nelson-agholor-and-other-veterans-who-could-be-replaced-by-rookies/amp/",
-            "title": "2022 NFL Draft: Chris Carson, Nelson Agholor and other veterans who could \nbe replaced by rookies",
-            "date": "12 hours ago"
-        },
-        {
-            "url": "https://www.cbssports.com/nfl/news/2022-nfl-schedule-release-team-by-team-opponents-previews-dates-times-tv-live-streaming/",
-            "title": "2022 NFL schedule release: Team-by-team opponents, previews, dates, times, \nTV, live streaming",
-            "date": "1 day ago"
-        },
-        {
-            "url": "https://www.cbssports.com/nfl/news/tom-brady-reveals-his-nfl-retirement-plan-is-in-the-broadcast-booth-but-has-unfinished-business-with-bucs/amp/",
-            "title": "Tom Brady reveals his NFL retirement plan is in the broadcast booth, but \nhas 'unfinished business' with Bucs",
-            "date": "1 day ago"
-        },
-        {
-            "url": "https://www.cbssports.com/nfl/news/nfl-2022-schedule-release-cbs-reveals-champion-rams-will-host-russell-wilson-broncos-on-christmas-day/amp/",
-            "title": "NFL 2022 schedule release: CBS reveals champion Rams will host Russell \nWilson, Broncos on Christmas Day",
-            "date": "1 day ago"
+            "url": "https://picturethisai.com/ko/care/Ginkgo_biloba.html#Cultivation:SunlightDetail",
+            "title": "3. 일조"
         }
     ]
 }
@@ -215,48 +179,41 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample5.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample5.json)
 
-![](<../../.gitbook/assets/image (1) (1).png>)
-
+![](../../.gitbook/assets/organic\_site\_links.png)
 ```
 {
-    "sequence": 1,
+    "sequence": 2,
     "type": "organic_results",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).Ww4FFb.xpd.EtOod.pkphOe",
     "position": 1,
-    "displayed_link": "https://namu.wiki › 올림픽",
-    "title": "올림픽 - 나무위키",
-    "url": "https://namu.wiki/w/%EC%98%AC%EB%A6%BC%ED%94%BD",
-    "snippet": "또한 월드컵은 개최기간이 대략 1달 정도이지만 올림픽은 개최기간이 개막 전 경기를 포함해서 대략 19일이다. 다만 경기종목이 늘어나고 한 도시에 모든 경기장을 다 지을 ...",
+    "site_name": "ent.wsu.ac.kr",
+    "displayed_link": "https://ent.wsu.ac.kr",
+    "title": ": 우송대학교 입학종합서비스",
+    "url": "https://ent.wsu.ac.kr/",
+    "snippet": "대전광역시 동구 자양동에 있는 사립 종합대학교.",
     "sitelinks": [
         {
-            "url": "https://namu.wiki/w/2022%20%EB%B2%A0%EC%9D%B4%EC%A7%95%20%EB%8F%99%EA%B3%84%EC%98%AC%EB%A6%BC%ED%94%BD",
-            "title": "2022 베이징 동계올림픽",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(1).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+            "url": "https://ent.wsu.ac.kr/board/index.jsp?code=einfo0601",
+            "title": "모집요강"
         },
         {
-            "url": "https://namu.wiki/w/%EC%98%AC%EB%A6%BC%ED%94%BD/%EC%A2%85%EB%AA%A9",
-            "title": "올림픽/종목",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(3).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+            "url": "https://ent.wsu.ac.kr/page/index.jsp?code=susi1001",
+            "title": "합격자조회 및 고지서 출력"
         },
         {
-            "url": "https://namu.wiki/w/2032%20%EB%B8%8C%EB%A6%AC%EC%A6%88%EB%B2%88%20%EC%98%AC%EB%A6%BC%ED%94%BD",
-            "title": "2032 브리즈번 올림픽",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(5).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+            "url": "https://ent.wsu.ac.kr/board/index.jsp?code=einfo0201",
+            "title": "전년도 입시결과"
         },
         {
-            "url": "https://namu.wiki/w/%EC%98%AC%EB%A6%BC%ED%94%BD/%EC%A2%85%EB%A5%98",
-            "title": "올림픽/종류",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(7).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+            "url": "https://ent.wsu.ac.kr/board/index.jsp?code=einfo0701",
+            "title": "입학자료실"
         },
         {
-            "url": "https://namu.wiki/w/%ED%94%BC%EC%97%90%EB%A5%B4%20%EB%93%9C%20%EC%BF%A0%EB%B2%A0%EB%A5%B4%ED%83%B1",
-            "title": "피에르 드 쿠베르탱",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(9).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+            "url": "https://ent.wsu.ac.kr/page/index.jsp?code=susi0101",
+            "title": "수시모집 > 모집요강"
         },
         {
-            "url": "https://namu.wiki/w/1896%20%EC%95%84%ED%85%8C%EB%84%A4%20%EC%98%AC%EB%A6%BC%ED%94%BD",
-            "title": "1896 아테네 올림픽",
-            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(11).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.OMVs0e.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+            "url": "https://ent.wsu.ac.kr/page/index.jsp?code=susi0101_n",
+            "title": "전형일정"
         }
     ]
 }
@@ -272,19 +229,14 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 {
     "sequence": 21,
     "type": "organic_results",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
-    "position": 16,
-    "displayed_link": "https://www.justonecookbook.com › ...",
-    "title": "Stir-Fried Vegetables (Yasai Itame) (Video) 野菜炒め - Just One Cookbook",
-    "url": "https://www.justonecookbook.com/stir-fry-vegetables/",
-    "snippet": "Many Japanese home cooks also use a frying pan to cook Yasai Itame. This recipe when cooked on a standard stove may not taste the same as a stir fry vegetable ...",
-    "thumbnail": {
-        "type": "video",
-        "url": "https://www.justonecookbook.com/stir-fry-vegetables/",
-        "desc": "stir-fried 동영상"
-    },
+    "position": 18,
+    "site_name": "ko.aliexpress.com",
+    "displayed_link": "https://m.ko.aliexpress.com › item",
+    "title": "2022 뜨거운 헤어 스타일 빗 내열성 여자 젖은 후크 곱슬 머리 브러쉬 ...",
+    "url": "https://m.ko.aliexpress.com/item/1005003930521466.html",
+    "snippet": "AliExpress Mobile에서 품질 좋은 2022 뜨거운 헤어 스타일 빗 내열성 여자 젖은 후크 곱슬 머리 브러쉬 프로 살롱 염색 스타일링 도구 거친 와이드 스파이크 치아 ...",
     "rating": {
-        "rating_count": "(68)",
+        "rating_count": "(13)",
         "rating_value": "4.6"
     }
 }
