@@ -1,5 +1,8 @@
-# Organic shorts
+---
+description: 'field 추가: site_name'
+---
 
+# Organic shorts
 
 
 ## Common
@@ -10,60 +13,43 @@
 
 ```
 {
-    "sequence": 10,
+    "sequence": 3,
     "type": "organic_shorts",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(33).mnr-c > g-scrolling-carousel#_Pku6YvCTFumt4-EP6IW_uAg42.kQ9KOd",
-    "displayed_link": "https://www.tiktok.com › discover",
-    "title": "짐승 친구들의 인기 동영상 찾아보기 | TikTok",
-    "url": "https://www.tiktok.com/discover/%EC%A7%90%EC%8A%B9-%EC%B9%9C%EA%B5%AC%EB%93%A4",
+    "site_name": "tiktok.com",
+    "displayed_link": "tiktok.comhttps://www.tiktok.com › discovertiktok.com",
+    "title": "수리남2화10분57｜TikTok 검색",
+    "url": "https://www.tiktok.com/discover/%EC%88%98%EB%A6%AC%EB%82%A82%ED%99%9410%EB%B6%8457?lang=ko-KR",
     "carousels": [
         {
-            "title": "우리 현식이 ㅈㄴ 멋있어#짐승친구들#추천#추천떠라#현식이#추천 ...",
-            "url": "https://www.tiktok.com/@tori08_1004/video/6997991372594629890",
-            "duration": "0:22"
+            "url": "https://www.tiktok.com/@netflixkcontent/video/7142668379910933761",
+            "duration": "1:07"
         },
         {
-            "title": "#상여자 #편의점 #먹방 #짐승친구들 #실사판 #짤툰 #짤태식 #병맛 ...",
-            "url": "https://www.tiktok.com/@jjaltoon/video/6998071949763038466",
-            "duration": "1:01"
+            "url": "https://www.tiktok.com/@surinamhwang/video/7156610865381346562",
+            "duration": "0:28"
         },
         {
-            "title": "#출처짤툰#언제나 니곁에#추천 | 오리지널 사운드 - 마끼꼬 - jmail ...",
-            "url": "https://www.tiktok.com/@user1hqjc5gnel/video/7084594882244922626",
-            "duration": "3:48"
+            "url": "https://www.tiktok.com/@moneysoy/video/7154764966459985153",
+            "duration": "0:35"
         },
         {
-            "title": "#CapCut &quot;아버지 안 가시면 안됍니깡?&quot; #짤툰 #짐승친구들 #땅땅이 ...",
-            "url": "https://www.tiktok.com/@mallroo/video/7084537844139609345",
-            "duration": "2:02"
-        },
-        {
-            "title": "#도쿄올림픽 짐승올림픽 #한국 #화이팅 #짐승친구들 #짤툰 #짤태식 ...",
-            "url": "https://www.tiktok.com/@jjaltoon/video/6992735073640533249",
-            "duration": "0:25"
-        },
-        {
-            "title": "#짧툰 흔한 영산형 게임 광고 특징 #짐승친구들 #짤툰 #짤태식 #병맛 ...",
-            "url": "https://www.tiktok.com/@jjaltoon/video/6995010988315561218",
+            "url": "https://www.tiktok.com/@netflixkcontent/video/7140889232301739265",
             "duration": "0:54"
         },
         {
-            "title": "#오징어게임 #알바 #짐승친구들 #짤태식 #병맛애니 #틱톡애니 #병맛 ...",
-            "url": "https://www.tiktok.com/@jjaltoon/video/7035867139500199170",
-            "duration": "0:40"
-        },
-        {
-            "title": "인형 된 동물친구들 #짤툰 #짤툰짐승친구들 #추천 #하트",
-            "url": "https://www.tiktok.com/@yasyas6974/video/7084622395301956866",
-            "duration": "0:43"
-        },
-        {
-            "title": "짐승친구들 집사편 실사판 ㅋㅋ#짐승친구들 #짤튠#짤태식 #땅땅이 ...",
-            "url": "https://www.tiktok.com/@zoomokim/video/7087912601526471938",
+            "url": "https://www.tiktok.com/@editor.b_honeyjam/video/7145739882894331137",
             "duration": "0:51"
+        },
+        {
+            "url": "https://www.tiktok.com/@surinamhwang/video/7156762407543622913",
+            "duration": "2:08"
+        },
+        {
+            "url": "https://www.tiktok.com/@netflixkcontent/video/7143907856985640194",
+            "duration": "0:54"
         }
     ],
-    "snippet": "짧툰 흔한 영산형 게임 광고 특징 #짐승친구들 #짤툰 #짤태식 #병맛애니 #틱톡애니 #병맛더빙 #틱톡더빙 #병맛코미디 #틱톡코미디 #코미디 #애니메이션."
+    "snippet": "4.3M 조회 수 · TikTok (틱톡) 에서 수리남2화10분57 관련 동영상을 찾아보세요."
 }
 ```
 
@@ -80,7 +66,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 {
     "sequence": 7,
     "type": "organic_shorts",
-    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6).MjjYud > div:nth-child(1).Ww4FFb.vt6azd > div:nth-child(1).rULfzc",
+    "site_name": "tiktok.com",
     "displayed_link": "tiktok.comhttps://www.tiktok.com › discovertiktok.com",
     "title": "지금 우리 연구소는 국수단 체크팀｜TikTok 검색",
     "url": "https://www.tiktok.com/discover/%EC%A7%80%EA%B8%88-%EC%9A%B0%EB%A6%AC-%EC%97%B0%EA%B5%AC%EC%86%8C%EB%8A%94-%EA%B5%AD%EC%88%98%EB%8B%A8-%EC%B2%B4%ED%81%AC%ED%8C%80",
