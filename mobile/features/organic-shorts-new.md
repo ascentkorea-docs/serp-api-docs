@@ -9,7 +9,7 @@ description: 'field 추가: site_name'
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_shorts/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_shorts/sample.json)
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/organic\_shorts2.png)
 
 ```
 {
