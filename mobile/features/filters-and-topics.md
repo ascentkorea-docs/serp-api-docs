@@ -1,5 +1,6 @@
 # Filters and Topics
 
+## Common
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/filters\_and\_topics/sample.html) 
 [JSON](https://ascentkorea-docs.github.io/mobile/features/filters\_and\_topics/sample.json)
@@ -73,6 +74,73 @@
             "type": "topic",
             "text": "디시",
             "query": "냉장고 추천 디시"
+        }
+    ]
+}
+```
+
+## Seperated topic
+
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/filters\_and\_topics/sample2.html) 
+[JSON](https://ascentkorea-docs.github.io/mobile/features/filters\_and\_topics/sample2.json)
+
+![](<../../.gitbook/assets/filters_and_topics_seperated_topic.png>)
+
+```
+{
+    "sequence": 1,
+    "type": "filters_and_topics",
+    "refinements": [
+        {
+            "type": "topic",
+            "text": "料金",
+            "query": "病院 診断書 料金"
+        },
+        {
+            "type": "topic",
+            "text": "もらえない",
+            "query": "病院 診断書 もらえない"
+        },
+        {
+            "type": "topic",
+            "text": "もらい方 仮病",
+            "query": "病院 診断書 もらい方 仮病"
+        },
+        {
+            "type": "topic",
+            "text": "後日 いつまで",
+            "query": "病院 診断書 後日 いつまで"
+        },
+        {
+            "type": "topic",
+            "text": "もらえない 風邪",
+            "query": "病院 診断書 もらえない 風邪"
+        },
+        {
+            "type": "topic",
+            "text": "種類",
+            "query": "病院 診断書 種類"
+        },
+        {
+            "type": "topic",
+            "text": "誰に頼む",
+            "query": "病院 診断書 誰に頼む"
+        },
+        {
+            "type": "topic",
+            "text": "本人以外",
+            "query": "病院 診断書 本人以外"
+        },
+        {
+            "type": "topic",
+            "text": "電話",
+            "query": "病院 診断書 電話"
+        },
+        {
+            "type": "topic",
+            "text": "保険証なし",
+            "query": "病院 診断書 保険証なし"
         }
     ]
 }
