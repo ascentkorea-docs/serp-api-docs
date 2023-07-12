@@ -30,3 +30,19 @@
     "fixed_query": "바르셀로나 대 아스날"
 }
 ```
+
+## **showing results for**
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample3.json)
+
+![image](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/0554dcf2-4c47-411f-9f50-0d4cb37f7a93)
+
+```
+{
+    "sequence": 1
+    "type": "spell_check"
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(1) > div:nth-child(1) > p#fprs.p64x9c.card-section.KDCVqf.Ww4FFb.vt6azd"
+    "fixed_query": "자바스크립트 컬러피커"
+    "origin_query": "자바스크립트 칼라피커"
+}
+```
