@@ -2,17 +2,36 @@
 
 ## **Show origin query**
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample.json)
+#### Including results for
 
-![](https://lh6.googleusercontent.com/AGo18MdCYrmTuzy\_wLhAD2\_Pxkn2y6u\_CQMk1AHJEAcQedsK-yKDZXAndDHhMdvhIoH7Go1Yrt5RjgxMmFeE3cXJgLdkjlFy3CL7w5pUC\_dwNVjZXtvBEchBEryuzWez7iMAl\_w)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample4.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample4.json)
+
+![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/3ac5c718-b9a2-4b7b-b7c6-2ae5f5e25938)
+
 
 ```
 {
-    "sequence": 1,
-    "type": "spell_check",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(1) > div:nth-child(1) > p#fprs.p64x9c.card-section.KDCVqf.mnr-c",
-    "fixed_query": "c# linq 최대값",
-    "origin_query": "c# linkq 최대값"
+    "sequence": 2
+    "type": "spell_check"
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(1) > div:nth-child(1) > p.p64x9c.card-section.KDCVqf.Ww4FFb.vt6azd"
+    "fixed_query": "항공권 예약"
+    "origin_query": "항공기 예약"
+}
+```
+
+#### Showing results for
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample3.json)
+
+![image](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/0554dcf2-4c47-411f-9f50-0d4cb37f7a93)
+
+```
+{
+    "sequence": 1
+    "type": "spell_check"
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(1) > div:nth-child(1) > p#fprs.p64x9c.card-section.KDCVqf.Ww4FFb.vt6azd"
+    "fixed_query": "자바스크립트 컬러피커"
+    "origin_query": "자바스크립트 칼라피커"
 }
 ```
 
@@ -31,18 +50,4 @@
 }
 ```
 
-## **Showing results for**
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample3.json)
-
-![image](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/0554dcf2-4c47-411f-9f50-0d4cb37f7a93)
-
-```
-{
-    "sequence": 1
-    "type": "spell_check"
-    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(1) > div:nth-child(1) > p#fprs.p64x9c.card-section.KDCVqf.Ww4FFb.vt6azd"
-    "fixed_query": "자바스크립트 컬러피커"
-    "origin_query": "자바스크립트 칼라피커"
-}
-```
