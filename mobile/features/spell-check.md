@@ -31,7 +31,7 @@
 }
 ```
 
-## **showing results for**
+## **Showing results for**
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample3.json)
 
