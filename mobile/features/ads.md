@@ -1,4 +1,10 @@
+---
+description: '신규 field 추가: grid'
+---
+
 # Ads
+
+## Carousels 
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/ads/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/ads/sample.json)
 
@@ -94,5 +100,68 @@
             "data-offer-id": "10304991I11155389718"
         }
     ]
+}
+```
+
+## Grid
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/ads/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/ads/sample2.json)
+
+![](../../../.gitbook/assets/ads_grid.png)
+
+```
+{
+    "sequence": 11,
+    "type": "ads",
+    "position": 1,
+    "ad_tag": "Sponsored",
+    "title": "Shop more products",
+    "grid": {
+        "items": [
+            [
+                {
+                    "title": "21v Cordless Drill Electric Kit Fast Charger Lithium-Ion Battery for Car Tyre Repair & Home DIY, Size: 12.68 x 10.2 x 3.82",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjY5-21reT_AhUTEGAKHaDHDA4YABAHGgJ0bQ&ohost=www.google.com&cid=CAASJeRorMcW7IRNnfIgfahDAS-eNWlywHdPMato7n-Xafgu5URdnBk&sig=AOD64_1lYrsK5ODzTLUd4hOZbXanZxGFhw&ctype=5&q=&ved=2ahUKEwiGh-a1reT_AhXoUPUHHaL4DocQ5IQJKAB6BAhfEAg&adurl=",
+                    "price": "$30.90",
+                    "provider": "Walmart",
+                    "data-merchant-id": "446274221",
+                    "data-offer-id": "440003340_101084828",
+                    "rating": {
+                        "rating_count": "(6)",
+                        "rating_value": "2.8"
+                    }
+                },
+                {
+                    "title": "Makita XFD10Z 18V LXT Lithium-Ion Cordless Driver-Drill, Tool Only, 1/2\"",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjY5-21reT_AhUTEGAKHaDHDA4YABAEGgJ0bQ&ohost=www.google.com&cid=CAASJeRorMcW7IRNnfIgfahDAS-eNWlywHdPMato7n-Xafgu5URdnBk&sig=AOD64_28rzUxF_aTEkiWK37S1_1ZCCRO5A&ctype=5&q=&ved=2ahUKEwiGh-a1reT_AhXoUPUHHaL4DocQ5IQJKAF6BAhfEAw&adurl=",
+                    "price": "$75.09",
+                    "provider": "Amazon.com",
+                    "delivery": "Free shipping",
+                    "data-merchant-id": "114193152",
+                    "data-offer-id": "B019HOCO8A"
+                }
+            ],
+            [
+                {
+                    "title": "BLACK+DECKER 20V MAX* POWERECONNECT Cordless Drill/Driver + 30 pc. Kit (LD120VA)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjY5-21reT_AhUTEGAKHaDHDA4YABAGGgJ0bQ&ohost=www.google.com&cid=CAASJeRorMcW7IRNnfIgfahDAS-eNWlywHdPMato7n-Xafgu5URdnBk&sig=AOD64_1Xv05jimm0g9IWawp0YO7k3P4a9A&ctype=5&q=&ved=2ahUKEwiGh-a1reT_AhXoUPUHHaL4DocQ5IQJKAJ6BAhfEA8&adurl=",
+                    "price": "$59.99",
+                    "provider": "Amazon.com",
+                    "delivery": "Free shipping",
+                    "data-merchant-id": "7388148",
+                    "data-offer-id": "B006V6YAPI"
+                },
+                {
+                    "title": "RYOBI ONE+ 18V Cordless 1/2 in. Drill/Driver (Tool Only) P215BN",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjY5-21reT_AhUTEGAKHaDHDA4YABAFGgJ0bQ&ohost=www.google.com&cid=CAASJeRorMcW7IRNnfIgfahDAS-eNWlywHdPMato7n-Xafgu5URdnBk&sig=AOD64_2ha2TRINemukzbyah3rAoxTi2ztQ&ctype=5&q=&ved=2ahUKEwiGh-a1reT_AhXoUPUHHaL4DocQ5IQJKAN6BAhfEBI&adurl=",
+                    "price": "$44.09",
+                    "provider": "Amazon.com",
+                    "delivery": "Free shipping",
+                    "data-merchant-id": "114193152",
+                    "data-offer-id": "B09SN6Y6TS"
+                }
+            ]
+        ]
+    }
 }
 ```
