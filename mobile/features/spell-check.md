@@ -21,7 +21,10 @@
 
 #### Showing results for
 
+displayed_query와 fixed_query가 동일함
+
 [HTML](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample3.json)
+
 
 ![image](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/0554dcf2-4c47-411f-9f50-0d4cb37f7a93)
 
@@ -34,6 +37,7 @@
     "origin_query": "자바스크립트 칼라피커"
 }
 ```
+
 
 ## **Show only fixed query**
 
