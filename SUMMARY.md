@@ -11,7 +11,7 @@
   * [App results](mobile/features/app-results.md)
   * [Articles](mobile/features/articles.md)
   * [Broaden searches](mobile/features/broaden-searches.md)
-  * [Dictionary results](mobile/features/dictionary_results.md)
+  * [Dictionary results(new)](mobile/features/dictionary_results.md)
   * [Discover more places](mobile/features/discover-more-places.md)
   * [Featured snippet](mobile/features/featured-snippet.md)
   * [Filters and topics](mobile/features/filters-and-topics.md)
