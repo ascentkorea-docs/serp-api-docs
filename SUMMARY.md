@@ -40,6 +40,7 @@
   * [Sns](mobile/features/sns.md)
   * [Spell check (updated)](mobile/features/spell-check.md)
   * [Sticky header tabs](mobile/features/sticky-header-tabs.md)
+  * [Translation(new)](mobile/features/translation.md)
   * [Twitter](mobile/features/twitter.md)
   * [Unit converter](mobile/features/unit-converter.md)
   * [Video carousels(deprecate)](mobile/features/video-carousels.md)
