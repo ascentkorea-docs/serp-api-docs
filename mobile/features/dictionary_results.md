@@ -12,7 +12,7 @@
     "source": "Oxford Languages",
     "items": [
         {
-            "entry_word": "매트리스"
+            "word": "매트리스"
         }
     ]
 }
