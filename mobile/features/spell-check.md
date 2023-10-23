@@ -31,7 +31,7 @@ description: '신규 field 추가: subtype, fixed_query_desc'
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample6.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample6.json)
 
-![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/ba5e5c03-9887-4623-bb47-1788a376805c")
+![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/ba5e5c03-9887-4623-bb47-1788a376805c)
 
 
 ```
@@ -53,7 +53,7 @@ description: '신규 field 추가: subtype, fixed_query_desc'
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample7.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/spell\_check/sample7.json)
 
-![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/02c2e98f-b38b-47c8-b21e-35c3baa9b70e")
+![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/02c2e98f-b38b-47c8-b21e-35c3baa9b70e)
 
 ```
 {
