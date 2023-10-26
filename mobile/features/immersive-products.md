@@ -397,9 +397,9 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample3.json)
 
-![image](https://github.com/sh-jin-ascentko/serp-api-docs/assets/111344654/aa34d2fd-74e9-4fb7-9f7a-5f924108b791)
+![](https://github.com/sh-jin-ascentko/serp-api-docs/assets/111344654/aa34d2fd-74e9-4fb7-9f7a-5f924108b791)
 
-```json
+```
 {
     "sequence": 1,
     "type": "immersive_products",
