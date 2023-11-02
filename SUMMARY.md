@@ -26,7 +26,7 @@
   * [No results](mobile/features/no-results.md)
   * [Organic results](mobile/features/organic-results.md)
   * [Organic shorts](mobile/features/organic-shorts-new.md)
-  * [People also ask for (updated)](mobile/features/people-also-ask-for.md)
+  * [People also ask for](mobile/features/people-also-ask-for.md)
   * [People also search for](mobile/features/people-also-search-for.md)
   * [People search next](mobile/features/people-search-next.md)
   * [Popular products(deprecated)](mobile/features/popular-products.md)
