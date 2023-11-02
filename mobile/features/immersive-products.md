@@ -1,62 +1,62 @@
 # Immersive products
 
+> json schema 변경: grid
+
 ## Grid
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample.json)
 
-![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/0b1d55a6-5090-49f3-9102-ba8bcef19244)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample4.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/immersive\_products/sample4.json)
+
+![](https://github.com/sh-jin-ascentko/serp-api-docs/assets/111344654/3f046e96-e041-4214-9918-e31613be1c0a)
+
 
 ```
 {
-    "sequence": 7,
+    "sequence": 1,
     "type": "immersive_products",
-    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(3) > div:nth-child(2)#rso > div:nth-child(5).MjjYud > div:nth-child(1).baPFxb.g.kSMK2",
+    "_selector": "div:nth-child(2)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1) > div:nth-child(2)#rso > div:nth-child(1).MjjYud > div:nth-child(5).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).aJegcc > div:nth-child(1).tyUpi.WGzQk > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > product-viewer-group > g-card.tkfIqc.g",
     "grid": {
         "items": [
-            [
-                {
-                    "title": "Samsung Galaxy S23",
-                    "price": "$799.99",
-                    "provider": "SSamsung, 10+ stores",
-                    "rating": {
-                        "rating_value": "4.6",
-                        "rating_count": "(6k+)"
-                    },
-                    "snippet": "Impressive performance · Lacks ultra wideband supportTom's Guide"
+            {
+                "title": "Comfy Package Disposable Party Plastic Cups",
+                "price": "$8.99",
+                "provider": "AAmazon.com - Seller, 10+ stores",
+                "rating": {
+                    "rating_value": "4.0",
+                    "rating_count": "(30)"
                 },
-                {
-                    "title": "Samsung Galaxy S23 Ultra",
-                    "price": "$1,379.99",
-                    "provider": "SSamsung, 10+ stores",
-                    "rating": {
-                        "rating_value": "4.8",
-                        "rating_count": "(9k+)"
-                    },
-                    "snippet": "Impressive performanceTom's Guide"
-                }
-            ],
-            [
-                {
-                    "title": "Samsung Galaxy S22 Ultra",
-                    "price": "$899.99",
-                    "provider": "SSamsung, 10+ stores",
-                    "rating": {
-                        "rating_value": "4.5",
-                        "rating_count": "(9k+)"
-                    },
-                    "snippet": "Most powerful deviceXDA Developers"
+                "snippet": "These are really good strong cups. i am using yhese to dtart tomato plants.you drill about 6 holes for drainage.then fill that cup andd puut seeds iin under a…A reviewer on walmart.com"
+            },
+            {
+                "title": "up & up Disposable Clear Cups",
+                "price": "$3.29",
+                "provider": "TTarget, 1+ stores",
+                "rating": {
+                    "rating_value": "4.7",
+                    "rating_count": "(47)"
                 },
-                {
-                    "title": "Samsung Galaxy S23+",
-                    "price": "$999.99",
-                    "provider": "SSamsung, 10+ stores",
-                    "rating": {
-                        "rating_value": "4.7",
-                        "rating_count": "(4k+)"
-                    },
-                    "snippet": "120Hz-capable display · Brand new 200MP cameraPocket-lint"
-                }
-            ]
+                "snippet": "…job. I use for soil testing and its good thick plastic for this particular need. Can be reused too as its very sturdy.A reviewer on Target"
+            },
+            {
+                "title": "Clear Plastic Cups",
+                "price": "$10.00",
+                "provider": "PParty City, 10+ stores",
+                "rating": {
+                    "rating_value": "4.3",
+                    "rating_count": "(277)"
+                },
+                "snippet": "Perfect size and color for wine & drinks. So many colors to choose from. Fast delivery & packaged well.A reviewer on partycity.com"
+            },
+            {
+                "title": "Comfy Package Clear Disposable Plastic Cups",
+                "price": "$21.99",
+                "provider": "WWalmart - Rikkel corp, 10+ stores",
+                "rating": {
+                    "rating_value": "4.2",
+                    "rating_count": "(25)"
+                },
+                "snippet": "…Perfect size! The right flexibility, doesn’t crack easily.A reviewer on walmart.com"
+            }
         ]
     }
 }
