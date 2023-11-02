@@ -6,7 +6,7 @@
 
 * [Features](mobile/features/README.md)
   * [Ad](mobile/features/ad.md)
-  * [Ads(new)](mobile/features/ads.md)
+  * [Ads](mobile/features/ads.md)
   * [Adult certification](mobile/features/adult-certification.md)
   * [App results](mobile/features/app-results.md)
   * [Articles](mobile/features/articles.md)
@@ -36,7 +36,7 @@
   * [Safe search](mobile/features/safe-search.md)
   * [Scholar](mobile/features/scholar.md)
   * [Shops](mobile/features/shops.md)
-  * [Short videos](mobile/features/short-videos.md)
+  * [Short videos(new)](mobile/features/short-videos.md)
   * [Sns](mobile/features/sns.md)
   * [Spell check](mobile/features/spell-check.md)
   * [Sticky header tabs](mobile/features/sticky-header-tabs.md)
