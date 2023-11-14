@@ -262,7 +262,7 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample9.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample9.json)
 
-![](../.gitbook/assets/../../../.gitbook/assets/featured_snippet_sample_09.png)
+![](../../.gitbook/assets/featured_snippet_sample_09.png)
 
 ```
 {
