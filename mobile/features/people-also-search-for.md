@@ -1,5 +1,41 @@
 # People also search for
 
+## Common
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/people\_also\_search\_for/common.html)
+[JSON](https://ascentkorea-docs.github.io/mobile/features/people\_also\_search\_for/common.json)
+
+![](../../.gitbook/assets/people_also_search_for_common.png)
+
+```json
+{
+    "sequence": 7,
+    "type": "people_also_search_for",
+    "searches": [
+        {
+            "query": "せりの根の食べ方"
+        },
+        {
+            "query": "セリ 食べ方 注意"
+        },
+        {
+            "query": "せり 根っこ レシピ"
+        },
+        {
+            "query": "せり 根っこ 洗い方 簡単"
+        },
+        {
+            "query": "せり 根っこ 栄養"
+        },
+        {
+            "query": "せり 食べ過ぎ"
+        }
+    ]
+}
+```
+
+## Advanced
+
 [HTML](https://ascentkorea-docs.github.io/mobile/features/people\_also\_search\_for/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/people\_also\_search\_for/sample.json)
 
 ![](https://lh4.googleusercontent.com/nfGu55IbWt6TtBFnyhXZId\_Oicl\_lWXHVfX44uNP1v-5t4\_bIOYjJDMVjnsaU-ZM-jR8XIoC0FityNkVAoirB9COyUv1VeMe9mUHK4\_eEM\_R6pO4CsivW8dMFjujR\_7z91\_Ckl8)
