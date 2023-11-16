@@ -97,3 +97,27 @@
     ]
 }
 ```
+
+## Local Items
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/related\_searches/local\_items.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/related\_searches/local\_items.json)
+
+![](../../.gitbook/assets/related_searches_local_items.png)
+
+```json
+{
+    "sequence": 22,
+    "type": "related_searches",
+    "items": [
+        {
+            "title": "단체모임에 적합한 레스토랑 대한민국"
+        },
+        {
+            "title": "한식당 대한민국"
+        },
+        {
+            "title": "아침식사 추천 대한민국"
+        }
+    ]
+}
+```
