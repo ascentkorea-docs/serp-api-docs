@@ -98,9 +98,12 @@
 
 ## Grid
 
+#### common
+
 [HTML](https://ascentkorea-docs.github.io/mobile/features/images/sample4.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/images/sample4.json)
 
 ![](https://github.com/ascentkorea-docs/serp-api-docs/assets/111344654/4d6ed1dc-fd43-4ac7-8883-8e0d2d9a6c37)
+
 
 ```
 {
@@ -133,3 +136,46 @@
     }
 }
 ```
+
+#### title
+
+[HTML](https://ascentkorea-docs.github.io/mobile/features/images/sample5.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/images/sample5.json)
+
+![](https://github.com/sh-jin-ascentko/serp-api-docs/assets/111344654/1cc2b200-fcd6-417f-a1a0-8090e1ef18a7)
+
+
+```
+{
+    "sequence": 1,
+    "type": "images",
+    "grid": {
+        "items": [
+            [
+                {
+                    "title": "근대의 어둠을 응시하는 고양이의 시선 - 예스24",
+                    "source": "예스24",
+                    "landing_url": "https://www.yes24.com/Product/Goods/2107709"
+                },
+                {
+                    "title": "고양이의 시선 | 정선태 - 모바일교보문고",
+                    "source": "교보문고",
+                    "landing_url": "https://product.kyobobook.co.kr/detail/S000000819389"
+                }
+            ],
+            [
+                {
+                    "title": "고양이의시선 - 비마이펫 크리에이터즈",
+                    "source": "비마이펫 크리에이터즈",
+                    "landing_url": "https://creators.mypetlife.co.kr/tag/%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98%EC%8B%9C%EC%84%A0/"
+                },
+                {
+                    "title": "고양이 - 고양이의 시선으로 세상을 바라보다",
+                    "source": "낭만을 꿈꾸며 - 티스토리",
+                    "landing_url": "https://jinho-life.tistory.com/6"
+                }
+            ]
+        ]
+    }
+}
+```
+
