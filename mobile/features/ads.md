@@ -10,7 +10,7 @@ description: '신규 field 추가: grid'
 
 ![](../../../.gitbook/assets/ads.png)
 
-```
+```json
 {
     "sequence": 1,
     "type": "ads",
@@ -109,7 +109,7 @@ description: '신규 field 추가: grid'
 
 ![](../../../.gitbook/assets/ads_grid.png)
 
-```
+```json
 {
     "sequence": 11,
     "type": "ads",

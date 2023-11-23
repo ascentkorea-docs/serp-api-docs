@@ -6,7 +6,7 @@
 
 ![](../../.gitbook/assets/trailers\_and\_clips.png)
 
-```
+```json
 {
     "sequence": 3,
     "type": "trailers_and_clips",

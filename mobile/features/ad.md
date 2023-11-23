@@ -6,7 +6,7 @@
 
 ![](../../.gitbook/assets/ad\_common.png)
 
-```
+```json
 {
     "sequence": 2,
     "type": "ad",
@@ -25,7 +25,7 @@
 
 ![](<../../.gitbook/assets/image (4).png>)
 
-```
+```json
 {
     "sequence": 3,
     "type": "ad",
@@ -73,7 +73,7 @@
 
 ![](<../../.gitbook/assets/image (6).png>)
 
-```
+```json
 {
     "sequence": 1,
     "type": "ad",
@@ -106,7 +106,7 @@
 
 ![](https://lh3.googleusercontent.com/2DcTvUC4Smm8BZNIugt23DXBdw5uSLeDqFAxP4r9CRBaEiNRIH509GnZK59OqVA1hJhl8g2wtO\_6OmmmsXfmKpFrYf6ttKhfwdGVVSSY5V-lhbS5ocKOf66LbR5FI8namMOCJ0Q)
 
-```
+```json
 {
     "sequence": 2,
     "type": "ad",

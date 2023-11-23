@@ -11,7 +11,7 @@ description: 'field 추가: site_name'
 
 ![](../../.gitbook/assets/organic\_common.png)
 
-```
+```json
 {
     "sequence": 13,
     "type": "organic_results",
@@ -33,7 +33,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_date.png)
 
-```
+```json
 {
     "sequence": 3,
     "type": "organic_results",
@@ -53,7 +53,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_file_format.png)
 
-```
+```json
 {
     "sequence": 2,
     "type": "organic_results",
@@ -75,7 +75,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_thumbnail\_image.png)
 
-```
+```json
 {
     "sequence": 2,
     "type": "organic_results",
@@ -100,7 +100,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_thumbnail\_video.png)
 
-```
+```json
 {
     "sequence": 5,
     "type": "organic_results",
@@ -125,7 +125,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_thumbnail\_direct\_video.png)
 
-```
+```json
 {
     "sequence": 18,
     "type": "organic_results",
@@ -148,7 +148,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_carousels.png)
 
-```
+```json
 {
     "sequence": 16,
     "type": "organic_results",
@@ -180,7 +180,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 [HTML](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample5.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/organic\_results/sample5.json)
 
 ![](../../.gitbook/assets/organic\_site\_links.png)
-```
+```json
 {
     "sequence": 2,
     "type": "organic_results",
@@ -225,7 +225,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_rating.png)
 
-```
+```json
 {
     "sequence": 21,
     "type": "organic_results",
@@ -248,7 +248,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_rich\_snippet.png)
 
-```
+```json
 {
     "sequence": 13,
     "type": "organic_results",
@@ -280,7 +280,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_refinements.png)
 
-```
+```json
 {
     "sequence": 1,
     "type": "organic_results",
@@ -322,7 +322,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_images.png)
 
-```
+```json
 {
     "sequence": 2,
     "type": "organic_results",
@@ -359,7 +359,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_video.png)
 
-```
+```json
 {
     "sequence": 11,
     "type": "organic_results",
@@ -381,7 +381,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_missing\_words.png)
 
-```
+```json
 {
     "sequence": 11,
     "type": "organic_results",
