@@ -8,7 +8,7 @@
 
 ![](<../../.gitbook/assets/image (5).png>)
 
-```
+```json
 {
     "sequence": 8,
     "type": "app_results",
@@ -52,7 +52,7 @@
 
 ![](<../../.gitbook/assets/app\_results\_carousels.png>)
 
-```
+```json
 {
     "sequence": 2,
     "type": "app_results",

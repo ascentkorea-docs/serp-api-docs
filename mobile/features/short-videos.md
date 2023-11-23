@@ -6,7 +6,7 @@
 
 ![](../../.gitbook/assets/short\_videos.png)
 
-```
+```json
 {
     "sequence": 2,
     "type": "short_videos",
@@ -53,7 +53,7 @@
 [JSON](https://ascentkorea-docs.github.io/mobile/features/short\_videos/sample2.json)
 
 ![](../../.gitbook/assets/short\_videos\_2.png)
-```
+```json
 {
     "sequence": 2,
     "type": "short_videos",

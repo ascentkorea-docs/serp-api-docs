@@ -8,7 +8,7 @@ description: 'field 추가: date'
 
 ![](../../.gitbook/assets/video\_carousels.png)
 
-```
+```json
 {
     "sequence": 2,
     "type": "video_carousels",

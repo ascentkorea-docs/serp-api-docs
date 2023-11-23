@@ -11,7 +11,7 @@ description: 'field 추가: site_name'
 
 ![](../../.gitbook/assets/organic\_shorts2.png)
 
-```
+```json
 {
     "sequence": 3,
     "type": "organic_shorts",
@@ -62,7 +62,7 @@ date 값을 100% 보장하지 않음 - GIT_ISSUE 참고
 
 ![](../../.gitbook/assets/organic\_shorts.png)
 
-```
+```json
 {
     "sequence": 7,
     "type": "organic_shorts",
