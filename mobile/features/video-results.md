@@ -1,5 +1,5 @@
 ---
-description: 'field 추가: date'
+description: 'field 추가: source, channel, duration'
 ---
 
 # Video results
@@ -8,32 +8,43 @@ description: 'field 추가: date'
 
 ![](../../.gitbook/assets/video\_results.png)
 
-```
+```json
 {
-    "sequence": 3,
+    "sequence": 1,
     "type": "video_results",
-    "_selector": "div:nth-child(2)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).MjjYud > div:nth-child(4).uVMCKf.Ww4FFb.vt6azd > div:nth-child(5)",
     "title": "VideosView All",
     "videos": [
         {
-            "title": "네발 걷기 호보법   전신운동 효과 GOOD!! [내 몸 플러스] 186회 20200301",
-            "url": "https://m.youtube.com/watch?v=GFrNQvO7XtA",
-            "date": "2020. 3. 1."
+            "title": "소니 FE 70-200mm F4 Macro G OSS Ⅱ 프리뷰",
+            "url": "https://m.youtube.com/watch?v=-94iT4H2m0k",
+            "source": "YouTube",
+            "channel": "카메라설명해주는남자!",
+            "date": "2023. 7. 17.",
+            "duration": "7:01"
         },
         {
-            "title": "매일 걷기운동하면 나타나는 놀라운 효과(제대로 걷는 방법) | 유산소운동 #1",
-            "url": "https://m.youtube.com/watch?v=C0G_OonCqaQ",
-            "date": "2018. 5. 30."
+            "title": "Introducing FE 70-200mm F4 Macro G OSS II | Sony | α Lens",
+            "url": "https://m.youtube.com/watch?v=5WXIeLFQ_o4",
+            "source": "YouTube",
+            "channel": "Sony | Camera Channel",
+            "date": "2023. 7. 12.",
+            "duration": "3:12"
         },
         {
-            "title": "최고의 전신운동 `바른 자세로 걷기` [아침마당] 20200611",
-            "url": "https://m.youtube.com/watch?v=SsxDk7MKt_I",
-            "date": "2020. 6. 11."
+            "title": "가벼움으로 더 자유롭게 FE 70-200mm F4 Macro G OSS II │ 4K 디지털 언패킹",
+            "url": "https://m.youtube.com/watch?v=Q3OwTj9CP-k",
+            "source": "YouTube",
+            "channel": "Sony | Alpha Universe (Korea)",
+            "date": "2023. 7. 26.",
+            "duration": "2:00:10"
         },
         {
-            "title": "[핏분 유쾌한 홈트레이닝] 전신운동 Part 3-1. 스텝퍼를 이용한 유산소 운동과 전신운동 (가정용 런닝머신, 걷기운동)",
-            "url": "https://m.youtube.com/watch?v=ZsLK8j7bkTw",
-            "date": "2017. 11. 20."
+            "title": "Sony 70-200mm f/4 Macro G OSS II Review: Small but MIGHTY!",
+            "url": "https://m.youtube.com/watch?v=EYn2LamEtTM",
+            "source": "YouTube",
+            "channel": "PetaPixel",
+            "date": "2023. 7. 12.",
+            "duration": "9:10"
         }
     ]
 }

@@ -40,12 +40,12 @@
   * [Sns](mobile/features/sns.md)
   * [Spell check](mobile/features/spell-check.md)
   * [Sticky header tabs](mobile/features/sticky-header-tabs.md)
-  * [Trailers and clips(new)](mobile/features/trailers-and-clips.md)
+  * [Trailers and clips](mobile/features/trailers-and-clips.md)
   * [Translation(new)](mobile/features/translation.md)
   * [Twitter](mobile/features/twitter.md)
   * [Unit converter](mobile/features/unit-converter.md)
   * [Video carousels(deprecate)](mobile/features/video-carousels.md)
-  * [Video results](mobile/features/video-results.md)
+  * [Video results(new)](mobile/features/video-results.md)
 
 ## Desktop
 
