@@ -2,7 +2,7 @@
 
 ## Common
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/local_time/common.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/local_time/common.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/local\_time/common.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/local\_time/common.json)
 
 ![](../../../.gitbook/assets/common.png)
 
@@ -16,9 +16,9 @@
 
 ## Time zone
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/local_time/time_zone.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/local_time/time_zone.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/local\_time/time\_zone.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/local\_time/time\_zone.json)
 
-![](../../../.gitbook/assets/local_time_time_zone.png)
+![](../../../.gitbook/assets/local\_time\_time\_zone.png)
 
 ```
 {
@@ -30,9 +30,9 @@
 
 ## Local time conversion
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/local_time/local_time_conversion.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/local_time/local_time_conversion.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/local\_time/local\_time\_conversion.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/local\_time/local\_time\_conversion.json)
 
-![](../../../.gitbook/assets/local_time_local_time_conversion.png)
+![](../../../.gitbook/assets/local\_time_local\_time\_conversion.png)
 
 ```
 {
