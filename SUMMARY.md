@@ -10,7 +10,7 @@
   * [Adult certification](mobile/features/adult-certification.md)
   * [App results](mobile/features/app-results.md)
   * [Articles](mobile/features/articles.md)
-  * [Calculator result(new)](mobile/features/calculator_result.md)
+  * [Calculator result(new)](mobile/features/calculator-result.md)
   * [Broaden searches](mobile/features/broaden-searches.md)
   * [Dictionary results(new)](mobile/features/dictionary_results.md)
   * [Discover more places](mobile/features/discover-more-places.md)
@@ -24,7 +24,7 @@
   * [Job search](mobile/features/job-search.md)
   * [Knowledge panel](mobile/features/knowledge-panel-new.md)
   * [Local results](mobile/features/local-results.md)
-  * [Local time(new)](mobile/features/local_time.md)
+  * [Local time(new)](mobile/features/local-time.md)
   * [No results](mobile/features/no-results.md)
   * [Organic results](mobile/features/organic-results.md)
   * [Organic shorts](mobile/features/organic-shorts-new.md)
@@ -48,6 +48,7 @@
   * [Unit converter](mobile/features/unit-converter.md)
   * [Video carousels(deprecate)](mobile/features/video-carousels.md)
   * [Video results(new)](mobile/features/video-results.md)
+  * [Weather result(new)](mobile/features/weather-result.md)
 
 ## Desktop
 
