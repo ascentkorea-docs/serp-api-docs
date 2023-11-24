@@ -2,7 +2,7 @@
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/calculator\_result/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/calculator\_result/sample.json)
 
-![](../../.gitbook/assets/calculator_result.png)
+![](../../.gitbook/assets/calculator\_result.png)
 
 ```
 {
