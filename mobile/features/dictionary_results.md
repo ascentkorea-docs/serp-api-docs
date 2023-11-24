@@ -1,4 +1,4 @@
-# Dictionary results(TEST)
+# Dictionary results
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/dictionary\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/dictionary\_results/sample.json)
 
