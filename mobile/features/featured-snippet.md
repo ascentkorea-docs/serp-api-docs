@@ -6,7 +6,7 @@
 
 ![](https://lh4.googleusercontent.com/DGY1VfLwmEgNzRPS5h0j4FvGC10\_ZPyu8QlZcpftbdSfthBNkO0rYQkhkWS-Y5XeMxp2rUaAEzP\_FXO5trmFBUmpCATqly\_FzsCOJD1L02Od6QSorFVND45vrVTNAK\_\_BpDKNhU)
 
-```
+```json
 {
     "sequence": 2,
     "type": "featured_snippet",
@@ -29,7 +29,7 @@
 
 ![](https://lh3.googleusercontent.com/CwXcpE1X9Hr\_wldBxuUBBn3KBirGeoxxT4nHnrxXvhbTHPFHKrV5oo2qxbO03A94rkTXTczmHvfLjARjh6ZibRn0QkhesOCG0tt9Dw\_OMED5VkYoSgGs9ji75LPtq9Sdgs4Ffz0)
 
-```
+```json
 {
     "sequence": 2,
     "type": "featured_snippet",
@@ -50,13 +50,13 @@
 }
 ```
 
-## **Rich snippet**
+## Rich snippet
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample3.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample3.json)
 
 ![](https://lh4.googleusercontent.com/qZCdVVah1IyeTM8-vGnbYiPoXSPfMXKgOEkyuLYTNpKWER-rhpBk\_\_KJ7AxG6fOZbyvn7XH1V3\_JyqCpqNx4Q\_mkd5bBeqGpm7W1jkZgrVOBgCzVmw0Cf2DPRlX9hOBFGjCNBrk)
 
-```
+```json
 {
     "sequence": 1,
     "type": "featured_snippet",
@@ -95,7 +95,7 @@
 
 ![](https://lh4.googleusercontent.com/CQ5yFU7HsRzg0OIM0jl2kPTtvqb222h0l2Nn3Qc-HxcTtmUflQL4Xz7P2C5VKlRMMx8R3kORL2hs3HsF8vdpBBbtUzB0\_C2155fJGraBRpIIW9RALlxG3Dys5KOh76ImreMjmOg)
 
-```
+```json
 {
     "sequence": 1,
     "type": "featured_snippet",
@@ -129,7 +129,7 @@
 
 ![](https://lh4.googleusercontent.com/m7FgO7ODhCy8J128-iJ95ZTBxo\_p8ZisuSXeHQhyXz-Li9SJ2IkJvjp2H3Dle\_C4BSM34yqnwG\_mU4MSTbaWTk\_fgmMPNVj5CIwFEDRtRhG3Cvt0D8tarphgLkwLywrSpri0PLM)
 
-```
+```json
 {
     "sequence": 1,
     "type": "featured_snippet",
@@ -157,13 +157,13 @@
 }
 ```
 
-## **Table**
+## Table
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample6.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample6.json)
 
 ![](https://lh6.googleusercontent.com/ekxg9XKgqLIrw6x\_HKsouDZn3jaPQm169z9C\_Dj3iYO9ki4Rh1ir\_awaPK0xDxw\_x-ucpljGkT9JxqdskYt1xZuetk9Nd7szXvLXRiXHegbt6I5pYeEXF3s99uKN\_57xb3BPwyc)
 
-```
+```json
 {
     "sequence": 2,
     "type": "featured_snippet",
@@ -204,23 +204,24 @@
 }
 ```
 
-## **Video exist**
+## Video exist
 
-[HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample7.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/sample7.json)
+[HTML](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/video\_exist.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/featured\_snippet/video\_exist.json)
 
-![](https://lh5.googleusercontent.com/Y1g-ZUAQoujZvVu7HfdDqflZprLM1lqIi\_YNEd7S1NUZ-2LhiKuzdo4xE7F1\_BMznkPMptdJUUktQ6xL7EFWJLAJbHm8hMNy2NmYsbouivMJ0u3K62-Fz1\_Qu15GN0XzOpSRDgU)
+![](../../.gitbook/assets/featured_snippet_video_exist.png)
 
-```
+```json
 {
-    "sequence": 1,
+    "sequence": 2,
     "type": "featured_snippet",
-    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > block-component > div:nth-child(1).g.kno-result.mnr-c.JnwWd.g-blk",
     "results": [
         {
-            "title": "PS5 게임 아이패드에서 하는 법! 플스5 리모트 플레이 해보니! [4K] - YouTube",
-            "displayed_link": "YouTube · 이퓨",
-            "url": "https://m.youtube.com/watch?v=irWXnsZYlqc",
-            "video_exist": true
+            "title": "누수자가진단 이렇게 해보세요(냉수,온수배관) - YouTube",
+            "displayed_link": "https://m.youtube.com · 누수TV",
+            "url": "https://m.youtube.com/watch?v=8pVhVw-H0tk",
+            "video_exist": true,
+            "duration": "9:46",
+            "channel": "누수TV"
         }
     ],
     "official": true
@@ -233,7 +234,7 @@
 
 ![](https://lh4.googleusercontent.com/Cx69rEqKJIxd1ByYKGY8qGW-Q-\_dTZmaKHinBEQeo3MS\_DT5tXPktdvKS-3fDNIp8S9AOBJrRDgGX1VBsgPWbyOiaC7qEMEOMj3Vq5NqoZvtwol6f-HI4FtDZSHDG80eBOiazQU)
 
-```
+```json
 {
     "sequence": 1,
     "type": "featured_snippet",
@@ -264,7 +265,7 @@
 
 ![](../../.gitbook/assets/featured_snippet_sample_09.png)
 
-```
+```json
 {
     "sequence": 9,
     "type": "featured_snippet",
