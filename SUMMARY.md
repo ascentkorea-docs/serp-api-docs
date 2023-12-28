@@ -35,6 +35,7 @@
   * [Refined searches](mobile/features/refined-searches.md)
   * [Related products](mobile/features/related-products.md)
   * [Related searches(new)](mobile/features/related-searches.md)
+  * [Recipes(new)](mobile/features/recipes.md)
   * [Safe search](mobile/features/safe-search.md)
   * [Scholar](mobile/features/scholar.md)
   * [Shops](mobile/features/shops.md)
