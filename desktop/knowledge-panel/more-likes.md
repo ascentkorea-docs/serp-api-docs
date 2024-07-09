@@ -1,4 +1,4 @@
-# More likes
+<!-- # More likes
 
 [HTML](https://ascentkorea-docs.github.io/desktop/knowledge\_panel/more\_likes/sample.html) [JSON](https://ascentkorea-docs.github.io/desktop/knowledge\_panel/more\_likes/sample.json)
 
@@ -30,4 +30,4 @@
         }
     ]
 }
-```
+``` -->
