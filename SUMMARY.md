@@ -2,9 +2,9 @@
 
 * [SERP api docs](README.md)
 
-## Mobile
+<!-- ## Mobile
 
-<!-- * [Features](mobile/features/README.md)
+* [Features](mobile/features/README.md)
   * [Ad](mobile/features/ad.md)
   * [Ads](mobile/features/ads.md)
   * [Adult certification](mobile/features/adult-certification.md)
@@ -49,11 +49,11 @@
   * [Unit converter](mobile/features/unit-converter.md)
   * [Video carousels(deprecate)](mobile/features/video-carousels.md)
   * [Video results(new)](mobile/features/video-results.md)
-  * [Weather result(new)](mobile/features/weather-result.md) -->
+  * [Weather result(new)](mobile/features/weather-result.md)
 
 ## Desktop
 
-<!-- * [Features](desktop/features/README.md)
+* [Features](desktop/features/README.md)
   * [Ad](desktop/features/ad.md)
   * [No results](desktop/features/no-results.md)
   * [Organic results](desktop/features/page-2.md)
