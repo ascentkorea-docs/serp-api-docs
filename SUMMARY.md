@@ -2,7 +2,7 @@
 
 * [SERP api docs](README.md)
 
-## Mobile
+<!-- ## Mobile
 
 * [Features](mobile/features/README.md)
   * [Ad](mobile/features/ad.md)
@@ -61,4 +61,4 @@
 * [Knowledge panel](desktop/knowledge-panel/README.md)
   * [More likes](desktop/knowledge-panel/more-likes.md)
 * [Appbar](desktop/appbar/README.md)
-  * [More likes](desktop/appbar/more-likes.md)
+  * [More likes](desktop/appbar/more-likes.md) -->
