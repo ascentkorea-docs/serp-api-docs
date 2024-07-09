@@ -1,5 +1,5 @@
 # Interesting finds (new)
-
+- 해당 페이지는 더 이상 사용되지 않습니다. [Confluence](https://ascentkorea.atlassian.net/wiki/spaces/CJHZ/pages/397606925/Features)를 참고해 주세요!
 [HTML](https://ascentkorea-docs.github.io/mobile/features/interesting\_finds/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/interesting\_finds/sample.json)
 
 ![](https://lh3.googleusercontent.com/qJZu7Ji-41d9U6HOyYx5fE8gNur-pM06ehFgkzoXrX8rSMBkXnK91qV0QLSOi3ZesCxi9QRgQ6jSuj\_bc5AmNczmg-hSfiOBurkGWA\_JxzRpy1tZYPLkcQkoVgPGPAQzWsWKXIo)

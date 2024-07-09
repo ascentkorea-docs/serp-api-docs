@@ -1,5 +1,5 @@
 # Discover more places
-
+- 해당 페이지는 더 이상 사용되지 않습니다. [Confluence](https://ascentkorea.atlassian.net/wiki/spaces/CJHZ/pages/397606925/Features)를 참고해 주세요!
 [HTML](https://ascentkorea-docs.github.io/mobile/features/discover\_more\_places/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/discover\_more\_places/sample.json)
 
 ![](<../../.gitbook/assets/discover_more_places_sample.png>)

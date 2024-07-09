@@ -1,5 +1,5 @@
 # Unit converter
-
+- 해당 페이지는 더 이상 사용되지 않습니다. [Confluence](https://ascentkorea.atlassian.net/wiki/spaces/CJHZ/pages/397606925/Features)를 참고해 주세요!
 [HTML](https://ascentkorea-docs.github.io/mobile/features/unit\_converter/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/unit\_converter/sample.json)
 
 ![](https://lh6.googleusercontent.com/iksjqeFIrmiXAb7idxPKC9FGUnK5OWJlZ-6OslvdbFuSTq6VdF4bn7t-ZgWdqCoCneZbqn9B88QN5teb9zqMtX\_xvbp6N2S9gBgQeSRCVyGANIS5ZM\_8pE-DV0wIPxfLfYSVM-g)

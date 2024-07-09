@@ -1,5 +1,5 @@
 # Scholar
-
+- 해당 페이지는 더 이상 사용되지 않습니다. [Confluence](https://ascentkorea.atlassian.net/wiki/spaces/CJHZ/pages/397606925/Features)를 참고해 주세요!
 [HTML](https://ascentkorea-docs.github.io/mobile/features/scholar/sample2.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/scholar/sample2.json)
 
 ![](https://user-images.githubusercontent.com/111344654/208334225-0ec01015-aa26-47e9-b8ae-18296d787843.png)

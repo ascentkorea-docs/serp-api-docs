@@ -1,5 +1,5 @@
 # Organic results
-
+- 해당 페이지는 더 이상 사용되지 않습니다. [Confluence](https://ascentkorea.atlassian.net/wiki/spaces/CJHZ/pages/397606925/Features)를 참고해 주세요!
 [HTML](https://ascentkorea-docs.github.io/desktop/features/organic\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/desktop/features/organic\_results/sample.json)
 
 ![](https://lh5.googleusercontent.com/khcuwAd6R631vliTNoEuACC663BuAEdWkBvx3DTeOJSiyIWAUomsuwoYzm9ln-iG3iUkD4gOsLNQ0XKKFaRfmS7Jo6s6iyo1CRGKo2gUs3cNyW0bq\_jvqzUfRh37eAHXoe446V4)

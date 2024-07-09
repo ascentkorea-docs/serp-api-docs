@@ -1,5 +1,5 @@
 # Sticky header tabs
-
+- 해당 페이지는 더 이상 사용되지 않습니다. [Confluence](https://ascentkorea.atlassian.net/wiki/spaces/CJHZ/pages/397606925/Features)를 참고해 주세요!
 [HTML](https://ascentkorea-docs.github.io/mobile/features/sticky\_header\_tabs/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/sticky\_header\_tabs/sample.json)
 
 ![](https://lh5.googleusercontent.com/R54vsDBkGSUGVVkHscuftiVGyjitinDNO00Iq\_lM0-0ZYkFzkai6ZeSeZH9L-C0FLvJf1A2C9oeF5X0p4IOvPG9pO8JLXzRbtzI1NtzHdJf3n2d4dUwAFiY1VVx\_GMSbjvkXDbE)

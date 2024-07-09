@@ -1,5 +1,5 @@
 # Ad
-
+- 해당 페이지는 더 이상 사용되지 않습니다. [Confluence](https://ascentkorea.atlassian.net/wiki/spaces/CJHZ/pages/397606925/Features)를 참고해 주세요!
 [HTML](https://ascentkorea-docs.github.io/desktop/features/ad/sample.html) [JSON](https://ascentkorea-docs.github.io/desktop/features/ad/sample.json)
 
 ![](https://lh4.googleusercontent.com/gcBruYBRtpsWyeKykAYlBkRjYq4kN-HWCau0A8q3miowkrsW0zu1nhdFS2aavgQnO\_M07o8IrkcoMrlHAj1WQG-PP0EQHgAP3SZ1V9LBa4Whw7Wpr6T7WG6FjQ1eh7Qrk1uoQ9k)

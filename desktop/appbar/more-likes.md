@@ -1,5 +1,5 @@
 # More likes
-
+- 해당 페이지는 더 이상 사용되지 않습니다. [Confluence](https://ascentkorea.atlassian.net/wiki/spaces/CJHZ/pages/397606925/Features)를 참고해 주세요!
 [HTML](https://ascentkorea-docs.github.io/desktop/appbar/more\_likes/sample.html) [JSON](https://ascentkorea-docs.github.io/desktop/appbar/more\_likes/sample.json)
 
 ![](https://lh5.googleusercontent.com/VOycxxms9R4yYDpoGW5Ko8\_gyN0jhP90G0SwFrwX1iSbrZXgLHsVxq4RGUeaG1hr0A1leWQy9yX1QHL0sLLf49DmEsRJ2NR-X\_ukHI8JI4K6SLUDevMYQa2ozd3eCcQYN4d1sS4)

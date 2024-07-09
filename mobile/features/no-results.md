@@ -1,5 +1,5 @@
 # No results
-
+- 해당 페이지는 더 이상 사용되지 않습니다. [Confluence](https://ascentkorea.atlassian.net/wiki/spaces/CJHZ/pages/397606925/Features)를 참고해 주세요!
 ## **Case 1**
 
 [HTML](https://ascentkorea-docs.github.io/mobile/features/no\_results/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/no\_results/sample.json)

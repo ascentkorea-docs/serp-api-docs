@@ -1,5 +1,5 @@
 # Safe search
-
+- 해당 페이지는 더 이상 사용되지 않습니다. [Confluence](https://ascentkorea.atlassian.net/wiki/spaces/CJHZ/pages/397606925/Features)를 참고해 주세요!
 [HTML](https://ascentkorea-docs.github.io/mobile/features/safe\_search/sample.html) [JSON](https://ascentkorea-docs.github.io/mobile/features/safe\_search/sample.json)
 
 ![](https://lh6.googleusercontent.com/3dQmEataI5BkDtyKD8C2o8RXPsnIILSPeCR0O2XllLc2qixdIx3f-eDDJ1i06aZJFhX4s\_Vzw75eHIAQO-Ut-vN1xXFEJ3kmYx5nby8jXWE\_P8qe8sCQFCWAr0zhzsGE6C-AEwk)

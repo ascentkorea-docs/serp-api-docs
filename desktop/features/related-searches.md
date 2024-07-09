@@ -1,5 +1,5 @@
 # Related searches
-
+- 해당 페이지는 더 이상 사용되지 않습니다. [Confluence](https://ascentkorea.atlassian.net/wiki/spaces/CJHZ/pages/397606925/Features)를 참고해 주세요!
 [HTML](https://ascentkorea-docs.github.io/desktop/features/related\_searches/sample.html) [JSON](https://ascentkorea-docs.github.io/desktop/features/related\_searches/sample.json)
 
 ![](https://lh4.googleusercontent.com/f7G1eQdXJVp3q7\_ku93FcCRG46LXXUZJCAfFDKoNCaYak5SwJm3ki\_CbsLo5gBj1EnVYoFZ25Dl3vYsWhxZE1U25-5vQKeAhvTSGWv1Hzgpv2kjK\_89M7UcEjY6xjAOlXQvtkQ0)
